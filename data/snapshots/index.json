@@ -4,5 +4,11 @@
     "label": "2026-03-13 — Initial dataset (55 events)",
     "date": "2026-03-13",
     "eventCount": 55
+  },
+  {
+    "file": "2026-03-15_events.json",
+    "label": "2026-03-15 — 55 events",
+    "date": "2026-03-15",
+    "eventCount": 55
   }
 ]
