@@ -107,9 +107,9 @@ body { font-family: 'Segoe UI', system-ui, sans-serif; background: #0a0e17; colo
       <div id="data-info"></div>
       <div id="playback">
         <button onclick="goFirst()">⏮</button>
-        <button onclick="goPrev()">◀</button>
-        <button id="play-btn" onclick="togglePlay()">▶</button>
-        <button onclick="goNext()">▶</button>
+        <button onclick="goPrev()">⏪ Back</button>
+        <button id="play-btn" onclick="togglePlay()">▶ Play</button>
+        <button onclick="goNext()">Next ⏩</button>
         <button onclick="goLast()">⏭</button>
         <div id="turn-display">Turn 0 / 0</div>
       </div>
@@ -147,8 +147,16 @@ body { font-family: 'Segoe UI', system-ui, sans-serif; background: #0a0e17; colo
 </div>
 <script>
 const map = L.map('map', { zoomControl: true, minZoom: 3, maxZoom: 12 }).setView([30, 50], 5);
-L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png', {
   attribution: '© CartoDB © OSM', subdomains: 'abcd', maxZoom: 19
+}).addTo(map);
+// Country borders overlay for clarity
+L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_only_labels/{z}/{x}/{y}{r}.png', {
+  subdomains: 'abcd', maxZoom: 19, pane: 'overlayPane'
+}).addTo(map);
+// Stamen Toner lines for prominent borders
+L.tileLayer('https://tiles.stadiamaps.com/tiles/stamen_toner_lines/{z}/{x}/{y}{r}.png', {
+  maxZoom: 19, opacity: 0.35, pane: 'overlayPane'
 }).addTo(map);
 
 let events = [];
@@ -174,6 +182,8 @@ async function loadEvents(url) {
   const dates = [...new Set(events.map(e => e.date))].sort();
   document.getElementById('data-info').textContent =
     `📊 ${events.length} events | ${dates[0]} → ${dates[dates.length-1]} | Last updated: ${new Date().toLocaleDateString()}`;
+  // Default to showing all events (end of timeline)
+  currentTurn = events.filter(e => filters[e.side]).length - 1;
   render();
   map.invalidateSize();
 }
@@ -257,8 +267,8 @@ function goFirst(){currentTurn=0;render();}
 function goLast(){currentTurn=fe().length-1;render();}
 function goPrev(){if(currentTurn>0){currentTurn--;render();}}
 function goNext(){const m=fe().length-1;if(currentTurn<m){currentTurn++;render();}else stopPlay();}
-function togglePlay(){if(playing)stopPlay();else{playing=true;document.getElementById('play-btn').textContent='⏸';document.getElementById('play-btn').classList.add('active');playInterval=setInterval(()=>{goNext();if(currentTurn>=fe().length-1)stopPlay();},2500);}}
-function stopPlay(){playing=false;clearInterval(playInterval);document.getElementById('play-btn').textContent='▶';document.getElementById('play-btn').classList.remove('active');}
+function togglePlay(){if(playing)stopPlay();else{currentTurn=0;render();playing=true;document.getElementById('play-btn').textContent='⏸ Pause';document.getElementById('play-btn').classList.add('active');playInterval=setInterval(()=>{goNext();if(currentTurn>=fe().length-1)stopPlay();},2500);}}
+function stopPlay(){playing=false;clearInterval(playInterval);document.getElementById('play-btn').textContent='▶ Play';document.getElementById('play-btn').classList.remove('active');}
 function seekProgress(e){const r=e.currentTarget.getBoundingClientRect();currentTurn=Math.round(((e.clientX-r.left)/r.width)*(fe().length-1));render();}
 document.addEventListener('keydown',e=>{if(e.key==='ArrowRight'||e.key===' '){e.preventDefault();goNext();}else if(e.key==='ArrowLeft'){e.preventDefault();goPrev();}else if(e.key==='Home'){e.preventDefault();goFirst();}else if(e.key==='End'){e.preventDefault();goLast();}else if(e.key==='p'){togglePlay();}});
 
