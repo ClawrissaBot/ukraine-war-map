@@ -504,6 +504,14 @@
         "name": "NYT (Gulf attacks)",
         "url": "https://www.nytimes.com/2026/03/01/world/middleeast/iran-attacks-dubai-persian-gulf-countries-retaliation.html"
       }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://www.reuters.com/pictures/satellite-images-show-scope-iran-strikes-2026-03-02/DWKPGCVQUZITLCSBCNKFMTX6UU/",
+        "source": "Planet Labs PBC",
+        "captureDate": "2026-03-01",
+        "description": "Fire at Jebel Ali Port in Dubai from debris of an intercepted missile"
+      }
     ]
   },
   {
@@ -727,6 +735,14 @@
       {
         "name": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/3/3/iaea-confirms-some-damage-to-irans-natanz-nuclear-facility"
+      }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://www.timesofisrael.com/liveblog_entry/satellite-images-appear-to-show-fresh-damage-to-irans-natanz-nuclear-facility-complex/",
+        "source": "Vantor/AFP",
+        "captureDate": "2026-03-02",
+        "description": "Damage observed on several buildings at the Natanz nuclear complex facility"
       }
     ]
   },
@@ -1713,6 +1729,14 @@
       {
         "name": "Wikipedia Timeline",
         "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Iran_war"
+      }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://www.bedfordgazette.com/ap/international/iran-us/image_5a53cdbb-58d6-50c2-973d-4aaaadea272b.html",
+        "source": "Planet Labs PBC",
+        "captureDate": "2026-03-07",
+        "description": "Damage after airstrikes targeting Mehrabad International Airport in Tehran"
       }
     ]
   },
