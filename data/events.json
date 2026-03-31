@@ -3992,6 +3992,12 @@
         "source": "CENTCOM",
         "captureDate": "2026-03-22",
         "description": "CENTCOM published satellite imagery showing extensive damage at Khojir Aerospace Complex missile assembly facility"
+      },
+      {
+        "url": "https://www.washingtonpost.com/investigations/2026/03/29/iran-ballistic-missile-sites/",
+        "source": "Vantor/Airbus Pléiades",
+        "captureDate": "2026-03-24",
+        "description": "Washington Post analysis: at least 88 structures destroyed at Khojir Military Complex, a key missile R&D and manufacturing facility"
       }
     ]
   },
@@ -4063,6 +4069,14 @@
       {
         "name": "ISW",
         "url": "https://understandingwar.org/research/middle-east/iran-update-evening-special-report-march-22-2026/"
+      }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://www.washingtonpost.com/investigations/2026/03/29/iran-ballistic-missile-sites/",
+        "source": "Vantor",
+        "captureDate": "2026-03-09",
+        "description": "WashPost analysis: 15 facilities destroyed and 2 tunnel entrances struck at Khorgu Missile Base, Hormozgan Province"
       }
     ]
   },
@@ -5386,6 +5400,14 @@
         "name": "NYT",
         "url": "https://www.nytimes.com/live/2026/03/28/world/iran-war-trump-israel-oil"
       }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://defencesecurityasia.com/en/satellite-images-three-us-kc135-tankers-destroyed-saudi-base-iran-us-air-war/",
+        "source": "Sentinel-2",
+        "captureDate": "2026-03-27",
+        "description": "Satellite imagery showing three US KC-135 Stratotankers destroyed and burning at Prince Sultan Air Base after Iranian missile/drone strike"
+      }
     ]
   },
   {
@@ -5460,6 +5482,14 @@
       {
         "name": "CNN",
         "url": "https://www.cnn.com/2026/03/28/world/live-news/iran-war-us-israel-trump"
+      }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://www.washingtonpost.com/investigations/2026/03/29/iran-ballistic-missile-sites/",
+        "source": "Vantor/Airbus Pléiades",
+        "captureDate": "2026-03-12",
+        "description": "WashPost analysis: 12 structures struck at Parchin Military Complex, including solid rocket propellant motor production facilities and Taleghan 2 site"
       }
     ]
   },
@@ -6091,6 +6121,14 @@
         "name": "ISW",
         "url": "https://understandingwar.org/research/middle-east/iran-update-special-report-march-30-2026/"
       }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://www.washingtonpost.com/investigations/2026/03/29/iran-ballistic-missile-sites/",
+        "source": "Vantor",
+        "captureDate": "2026-03-14",
+        "description": "WashPost analysis: 19 structures struck at Hakimiyeh Military Complex, a liquid propellant and missile launcher production facility in Tehran"
+      }
     ]
   },
   {
@@ -6157,6 +6195,14 @@
       {
         "name": "ISW",
         "url": "https://understandingwar.org/research/middle-east/iran-update-special-report-march-30-2026/"
+      }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://understandingwar.org/research/middle-east/iran-update-special-report-march-30-2026/",
+        "source": "Commercial satellite imagery (via ISW)",
+        "captureDate": "2026-03-07",
+        "description": "Ground-penetrating munitions craters visible at Shiraz South Missile Base, one of Iran's 25 primary MRBM launch bases"
       }
     ]
   },
