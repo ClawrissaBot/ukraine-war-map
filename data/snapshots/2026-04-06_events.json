@@ -7546,26 +7546,5 @@
         "url": "https://www.reuters.com/world/middle-east/fire-erupts-kuwaits-shuwaikh-oil-sector-complex-after-drone-attack-state-news-2026-04-05/"
       }
     ]
-  },
-  {
-    "date": "2026-04-06",
-    "time": "morning",
-    "side": "diplomatic",
-    "title": "Pakistan circulates immediate ceasefire plan to end hostilities",
-    "detail": "Pakistan exchanged a two-stage proposal with Iran and the United States that would trigger an immediate ceasefire, reopen the Strait of Hormuz, and then move into 15-20 days of talks on a broader settlement tentatively dubbed the 'Islamabad Accord'. Reuters reported all elements needed agreement on April 6, with no immediate commitment yet from Tehran.",
-    "lat": 33.6844,
-    "lng": 73.0479,
-    "tid": "islamabad-accord",
-    "tn": "Islamabad / Ceasefire Mediation",
-    "dmg": 0,
-    "cas": 0,
-    "dl": "DIPLOMATIC — Immediate ceasefire framework circulated",
-    "dc": "dmg-none",
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/china/iran-us-receive-plan-end-hostilities-immediate-ceasefire-source-says-2026-04-06/"
-      }
-    ]
   }
 ]
