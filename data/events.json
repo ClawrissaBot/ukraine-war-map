@@ -346,6 +346,12 @@
         "source": "Planet Labs PBC",
         "captureDate": "2026-03-01",
         "description": "Smoke plume from building housing AN/TPY-2 radar system at Prince Sultan Air Base, Saudi Arabia"
+      },
+      {
+        "url": "https://apnews.com/article/iran-us-war-satellite-photos-damage-uae-bahrain-4b5edabf4c8cc89a56150ca4f1b7c06f",
+        "source": "Planet Labs PBC",
+        "captureDate": "2026-03-15",
+        "description": "Damage visible at Prince Sultan Air Base after Iranian attack"
       }
     ]
   },
@@ -378,6 +384,12 @@
       }
     ],
     "satelliteImages": [
+      {
+        "url": "https://apnews.com/article/iran-us-war-satellite-photos-damage-uae-bahrain-4b5edabf4c8cc89a56150ca4f1b7c06f",
+        "source": "Planet Labs PBC",
+        "captureDate": "2026-03-01",
+        "description": "Damage to a building at Al Udeid Air Base after Iranian attack"
+      },
       {
         "url": "https://abcnews.com/International/us-allied-radar-sites-middle-east-struck-10/story?id=131164670",
         "source": "Planet Labs PBC",
