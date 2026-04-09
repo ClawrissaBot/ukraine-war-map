@@ -7746,59 +7746,5 @@
         "url": "https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074"
       }
     ]
-  },
-  {
-    "date": "2026-04-08",
-    "time": "afternoon/evening",
-    "side": "israel",
-    "title": "Israel launches heaviest Lebanon strikes since Iran ceasefire",
-    "detail": "Hours after the two-week Iran ceasefire took effect, Israel carried out its largest coordinated strike of the Lebanon war, hitting more than 100 Hezbollah sites in Beirut, the Bekaa Valley and southern Lebanon. Reuters reported Lebanon's civil defence service said 254 people were killed and more than 1,100 wounded, while Hezbollah responded early the next day with rockets toward northern Israel.",
-    "lat": 33.8938,
-    "lng": 35.5018,
-    "tid": "beirut-lebanon-strikes-apr8",
-    "tn": "Beirut and wider Lebanon strike wave",
-    "dmg": 55,
-    "cas": 254,
-    "dl": "CRITICAL — Deadliest day in Lebanon war tests Iran ceasefire",
-    "dc": "dmg-critical",
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/middle-east/hezbollah-pauses-attacks-under-us-iran-ceasefire-sources-close-group-say-2026-04-08/"
-      },
-      {
-        "name": "AP News",
-        "url": "https://apnews.com/live/iran-war-israel-trump-04-09-2026"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-09",
-    "time": "morning",
-    "side": "iran",
-    "title": "Hormuz stays restricted as Iran issues mine-avoidance routes",
-    "detail": "The Strait of Hormuz remained shut to vessels sailing without an Iranian permit even after the ceasefire announcement. Reuters reported the Revolutionary Guards navy published alternative shipping routes to help vessels avoid naval mines, reinforcing that Gulf energy flows were still constrained while diplomacy remained shaky.",
-    "lat": 26.5667,
-    "lng": 56.25,
-    "tid": "hormuz-mines-routes-apr9",
-    "tn": "Strait of Hormuz",
-    "dmg": 0,
-    "cas": 0,
-    "dl": "STRATEGIC — Strait remains restricted with mine-risk routing guidance",
-    "dc": "dmg-strategic",
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/asia-pacific/trump-agrees-two-week-ceasefire-iran-says-safe-passage-through-hormuz-possible-2026-04-08/"
-      },
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/business/energy/us-crude-futures-rise-after-settling-previous-session-with-biggest-fall-six-2026-04-08/"
-      },
-      {
-        "name": "AP News",
-        "url": "https://apnews.com/live/iran-war-israel-trump-04-09-2026"
-      }
-    ]
   }
 ]
