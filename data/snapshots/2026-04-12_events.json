@@ -11,7 +11,7 @@
     "tn": "Dnipro",
     "dmg": 20,
     "cas": 8,
-    "dl": "MODERATE — Civilian districts damaged",
+    "dl": "MODERATE \u2014 Civilian districts damaged",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -32,7 +32,7 @@
     "tn": "Tatarstan Industrial Zone",
     "dmg": 15,
     "cas": 0,
-    "dl": "LIGHT — Deep-strike disruption inside Russia",
+    "dl": "LIGHT \u2014 Deep-strike disruption inside Russia",
     "dc": "dmg-light",
     "sources": [
       {
@@ -53,7 +53,7 @@
     "tn": "Kharkiv",
     "dmg": 25,
     "cas": 6,
-    "dl": "MODERATE — Urban and energy damage mounting",
+    "dl": "MODERATE \u2014 Urban and energy damage mounting",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -74,7 +74,7 @@
     "tn": "Kharkiv Border Front",
     "dmg": 30,
     "cas": 20,
-    "dl": "HEAVY — Frontier settlements contested",
+    "dl": "HEAVY \u2014 Frontier settlements contested",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -95,7 +95,7 @@
     "tn": "Kyiv",
     "dmg": 30,
     "cas": 12,
-    "dl": "HEAVY — Capital struck in mass barrage",
+    "dl": "HEAVY \u2014 Capital struck in mass barrage",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -116,7 +116,7 @@
     "tn": "Kursk Fuel Infrastructure",
     "dmg": 20,
     "cas": 0,
-    "dl": "MODERATE — Fuel storage disrupted",
+    "dl": "MODERATE \u2014 Fuel storage disrupted",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -137,7 +137,7 @@
     "tn": "Odesa Port",
     "dmg": 35,
     "cas": 5,
-    "dl": "HEAVY — Export infrastructure damaged",
+    "dl": "HEAVY \u2014 Export infrastructure damaged",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -158,7 +158,7 @@
     "tn": "Kyiv",
     "dmg": 25,
     "cas": 18,
-    "dl": "HEAVY — Residential and utility damage",
+    "dl": "HEAVY \u2014 Residential and utility damage",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -179,7 +179,7 @@
     "tn": "Crimea / Black Sea Military Sites",
     "dmg": 25,
     "cas": 2,
-    "dl": "MODERATE — Naval and energy disruption",
+    "dl": "MODERATE \u2014 Naval and energy disruption",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -200,7 +200,7 @@
     "tn": "Kursk Region",
     "dmg": 45,
     "cas": 25,
-    "dl": "CRITICAL — Frontline penetrated inside Russia",
+    "dl": "CRITICAL \u2014 Frontline penetrated inside Russia",
     "dc": "dmg-critical",
     "sources": [
       {
@@ -221,7 +221,7 @@
     "tn": "Kursk Region",
     "dmg": 30,
     "cas": 30,
-    "dl": "HEAVY — Counteroffensive underway",
+    "dl": "HEAVY \u2014 Counteroffensive underway",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -242,7 +242,7 @@
     "tn": "Ukraine Energy Grid",
     "dmg": 55,
     "cas": 12,
-    "dl": "CRITICAL — Nationwide power infrastructure hit",
+    "dl": "CRITICAL \u2014 Nationwide power infrastructure hit",
     "dc": "dmg-critical",
     "sources": [
       {
@@ -263,7 +263,7 @@
     "tn": "Moscow Region",
     "dmg": 20,
     "cas": 1,
-    "dl": "MODERATE — Airspace and fuel systems pressured",
+    "dl": "MODERATE \u2014 Airspace and fuel systems pressured",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -284,7 +284,7 @@
     "tn": "Kyiv",
     "dmg": 40,
     "cas": 10,
-    "dl": "CRITICAL — Massive nationwide strike wave",
+    "dl": "CRITICAL \u2014 Massive nationwide strike wave",
     "dc": "dmg-critical",
     "sources": [
       {
@@ -305,7 +305,7 @@
     "tn": "Donetsk Front",
     "dmg": 35,
     "cas": 40,
-    "dl": "HEAVY — Frontline pressure intensifies",
+    "dl": "HEAVY \u2014 Frontline pressure intensifies",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -326,7 +326,7 @@
     "tn": "Rostov Energy Infrastructure",
     "dmg": 25,
     "cas": 0,
-    "dl": "MODERATE — Refining capacity disrupted",
+    "dl": "MODERATE \u2014 Refining capacity disrupted",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -347,7 +347,7 @@
     "tn": "Ukraine Energy Grid",
     "dmg": 45,
     "cas": 14,
-    "dl": "CRITICAL — Winter energy campaign escalates",
+    "dl": "CRITICAL \u2014 Winter energy campaign escalates",
     "dc": "dmg-critical",
     "sources": [
       {
@@ -368,7 +368,7 @@
     "tn": "Voronezh Logistics Hub",
     "dmg": 20,
     "cas": 0,
-    "dl": "MODERATE — Rear-area depots disrupted",
+    "dl": "MODERATE \u2014 Rear-area depots disrupted",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -389,7 +389,7 @@
     "tn": "Odesa Port",
     "dmg": 30,
     "cas": 7,
-    "dl": "HEAVY — Port throughput threatened",
+    "dl": "HEAVY \u2014 Port throughput threatened",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -410,7 +410,7 @@
     "tn": "Ukraine Energy Grid",
     "dmg": 35,
     "cas": 3,
-    "dl": "HEAVY — Blackout pressure renewed",
+    "dl": "HEAVY \u2014 Blackout pressure renewed",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -431,7 +431,7 @@
     "tn": "Russian Oil and Gas Infrastructure",
     "dmg": 30,
     "cas": 1,
-    "dl": "HEAVY — Energy revenue targets hit",
+    "dl": "HEAVY \u2014 Energy revenue targets hit",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -452,7 +452,7 @@
     "tn": "Kyiv",
     "dmg": 30,
     "cas": 5,
-    "dl": "HEAVY — Air defence saturation continues",
+    "dl": "HEAVY \u2014 Air defence saturation continues",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -473,7 +473,7 @@
     "tn": "Southern Russia Logistics Network",
     "dmg": 20,
     "cas": 0,
-    "dl": "MODERATE — Logistics friction increased",
+    "dl": "MODERATE \u2014 Logistics friction increased",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -494,7 +494,7 @@
     "tn": "Zaporizhzhia",
     "dmg": 25,
     "cas": 4,
-    "dl": "MODERATE — Civilian and infrastructure damage",
+    "dl": "MODERATE \u2014 Civilian and infrastructure damage",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -515,7 +515,7 @@
     "tn": "Donbas Front",
     "dmg": 30,
     "cas": 35,
-    "dl": "HEAVY — Attritional offensives continue",
+    "dl": "HEAVY \u2014 Attritional offensives continue",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -536,7 +536,7 @@
     "tn": "Moscow Region",
     "dmg": 25,
     "cas": 3,
-    "dl": "MODERATE — Capital region disrupted",
+    "dl": "MODERATE \u2014 Capital region disrupted",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -557,7 +557,7 @@
     "tn": "Central and Western Ukraine",
     "dmg": 25,
     "cas": 6,
-    "dl": "MODERATE — Distributed nationwide damage",
+    "dl": "MODERATE \u2014 Distributed nationwide damage",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -578,79 +578,12 @@
     "tn": "Ukraine Nationwide",
     "dmg": 20,
     "cas": 5,
-    "dl": "MODERATE — War remains in sustained high-intensity phase",
+    "dl": "MODERATE \u2014 War remains in sustained high-intensity phase",
     "dc": "dmg-moderate",
     "sources": [
       {
         "name": "Reuters",
         "url": "https://www.reuters.com/world/ukraine-russia-war/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-10",
-    "time": "daytime",
-    "side": "other",
-    "title": "Easter ceasefire announced as Kyiv presses for longer pause",
-    "detail": "Putin announced a 32-hour Orthodox Easter ceasefire and Zelenskiy said Ukraine would observe it, while Kyiv urged Moscow to extend the pause and restart talks rather than resume attacks after the holiday.",
-    "lat": 50.4501,
-    "lng": 30.5234,
-    "tid": "kyiv-diplomacy",
-    "tn": "Kyiv",
-    "dmg": 10,
-    "cas": 0,
-    "dl": "LIGHT — Short humanitarian truce announced amid stalled peace efforts",
-    "dc": "dmg-light",
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/europe/ukrainians-sceptical-easter-truce-with-russia-kyiv-calls-talks-2026-04-10/"
-      },
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/europe/russias-putin-announces-orthodox-easter-ceasefire-expects-ukraine-do-same-2026-04-09/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-11",
-    "time": "morning",
-    "side": "other",
-    "title": "Ukraine and Russia swap 175 POWs each before Easter truce",
-    "detail": "Kyiv and Moscow exchanged 175 prisoners of war each, one of the few concrete outcomes linked to U.S.-brokered contacts, with Ukraine also receiving seven civilians and Russia taking back seven civilians from Kursk region.",
-    "lat": 50.4501,
-    "lng": 30.5234,
-    "tid": "kyiv-pow-swap",
-    "tn": "Kyiv",
-    "dmg": 5,
-    "cas": 0,
-    "dl": "LIGHT — Major prisoner exchange completed",
-    "dc": "dmg-light",
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/ukraine-russia-swap-175-servicemen-each-ahead-easter-ceasefire-2026-04-11/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-11",
-    "time": "night",
-    "side": "other",
-    "title": "Easter truce quickly frays amid border drone strikes and front-line fire",
-    "detail": "Hours after the ceasefire began, both sides accused each other of violations. Russian officials reported Ukrainian drone strikes in Kursk and Belgorod, while Ukraine's military said Russian forces committed hundreds of truce breaches including assaults, shelling and drone attacks.",
-    "lat": 51.7304,
-    "lng": 36.1926,
-    "tid": "kursk-belgorod-border",
-    "tn": "Kursk-Belgorod Border",
-    "dmg": 20,
-    "cas": 5,
-    "dl": "MODERATE — Ceasefire undermined almost immediately",
-    "dc": "dmg-moderate",
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/europe/three-injured-ukrainian-drone-attack-russias-kursk-region-governor-says-2026-04-11/"
       }
     ]
   }
