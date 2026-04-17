@@ -863,55 +863,5 @@
         "url": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-april-15-2026/"
       }
     ]
-  },
-  {
-    "date": "2026-04-16",
-    "time": "night",
-    "side": "ukraine",
-    "title": "Ukrainian drones strike Tuapse port and oil infrastructure on Russia's Black Sea coast",
-    "detail": "Ukraine struck infrastructure in and around Russia's Black Sea port of Tuapse, where officials reported fatalities, a fire, damage in the port area, and impacts involving oil-linked facilities. Reuters and ISW both identified Tuapse as part of Ukraine's continuing long-range campaign against Russian fuel and logistics infrastructure supporting the war effort.",
-    "lat": 44.1053,
-    "lng": 39.0802,
-    "tid": "tuapse-port",
-    "tn": "Tuapse Port and Oil Infrastructure",
-    "dmg": 30,
-    "cas": 2,
-    "dl": "HEAVY — Major Black Sea port and oil hub struck in Russia",
-    "dc": "dmg-heavy",
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/europe/two-children-dead-russias-tuapse-port-area-hit-ukrainian-drone-attacks-governor-2026-04-16/"
-      },
-      {
-        "name": "ISW",
-        "url": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-april-16-2026/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-16",
-    "time": "overnight",
-    "side": "other",
-    "title": "Russia's deadliest aerial attack of 2026 hits Kyiv, Odesa and Dnipro",
-    "detail": "Russia launched more than 700 drones and missiles during a prolonged strike series, killing at least 17 people and wounding about 100 across Ukraine, with some of the heaviest damage in Kyiv, Odesa, and Dnipro. Ukrainian and ISW reporting highlighted the scale of the barrage and Russia's tactic of using layered waves to exhaust air defences before ballistic missile strikes.",
-    "lat": 50.4501,
-    "lng": 30.5234,
-    "tid": "kyiv-city",
-    "tn": "Kyiv",
-    "dmg": 55,
-    "cas": 17,
-    "dl": "CRITICAL — Worst nationwide strike wave of the year hits major cities",
-    "dc": "dmg-critical",
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/russian-missiles-hit-ukraines-kyiv-officials-report-injuries-fires-2026-04-16/"
-      },
-      {
-        "name": "ISW",
-        "url": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-april-16-2026/"
-      }
-    ]
   }
 ]
