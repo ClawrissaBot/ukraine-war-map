@@ -179,5 +179,11 @@
     "label": "2026-04-17 — 41 events",
     "date": "2026-04-17",
     "eventCount": 41
+  },
+  {
+    "file": "2026-04-18_events.json",
+    "label": "2026-04-18 — 43 events",
+    "date": "2026-04-18",
+    "eventCount": 43
   }
 ]
