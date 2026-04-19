@@ -980,47 +980,5 @@
         "url": "https://www.reuters.com/world/europe/kremlin-says-europes-drone-cooperation-with-ukraine-shows-its-growing-2026-04-17/"
       }
     ]
-  },
-  {
-    "date": "2026-04-18",
-    "time": "overnight",
-    "side": "other",
-    "title": "Russian drone wave damages Odesa port infrastructure and knocks out power in Chernihiv region",
-    "detail": "Russia launched 219 long-range drones overnight, damaging port infrastructure, warehouses, depots, and administrative buildings in Ukraine's Odesa region while also hitting an energy facility in Chernihiv region and causing blackouts for about 380,000 consumers. The strike extended Moscow's pressure campaign against Ukrainian logistics and power infrastructure after the larger nationwide barrages earlier in the week.",
-    "lat": 46.4825,
-    "lng": 30.7233,
-    "tid": "odesa-port",
-    "tn": "Odesa Port Region",
-    "dmg": 25,
-    "cas": 0,
-    "dl": "MODERATE — Port and power infrastructure hit in renewed overnight drone attack",
-    "dc": "dmg-moderate",
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/europe/russia-hits-port-power-facility-ukraine-overnight-2026-04-18/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-18",
-    "time": "overnight",
-    "side": "ukraine",
-    "title": "Ukrainian drones hit Samara refineries, Crimea fuel depot, and Baltic export port",
-    "detail": "Ukrainian long-range drones struck multiple oil and fuel-linked targets across Russia and occupied Crimea, including refineries at Novokuibyshevsk and Syzran in Samara region, a fuel tank fire in Sevastopol, and the Lukoil terminal at Vysotsk port near St Petersburg. Reuters reported the attacks as part of Kyiv's intensified campaign against Russian oil logistics and export infrastructure that supports Moscow's war budget.",
-    "lat": 60.6281,
-    "lng": 28.5708,
-    "tid": "vysotsk-port",
-    "tn": "Vysotsk Oil Export Port",
-    "dmg": 30,
-    "cas": 0,
-    "dl": "HEAVY — Coordinated deep strike hits Russian oil export and refining network",
-    "dc": "dmg-heavy",
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/europe/ukraine-strikes-industrial-targets-volga-river-towns-samara-governor-says-2026-04-18/"
-      }
-    ]
   }
 ]
