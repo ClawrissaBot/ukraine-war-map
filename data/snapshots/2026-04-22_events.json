@@ -1093,26 +1093,5 @@
         "url": "https://www.usnews.com/news/world/articles/2026-04-21/eu-expects-positive-decisions-on-90-billion-euro-loan-to-ukraine-on-wednesday"
       }
     ]
-  },
-  {
-    "date": "2026-04-21",
-    "time": "overnight",
-    "side": "ukraine",
-    "title": "Ukrainian drones hit a Druzhba-linked oil pumping station in Samara region",
-    "detail": "Ukrainian drones struck an oil-pumping and dispatch facility in Prosvet, Samara region, which a Ukrainian security source said was part of the Druzhba pipeline supply chain. Reuters reported the strike caused a fire and reportedly damaged five large crude storage tanks, highlighting Kyiv's continued effort to disrupt Russian oil logistics tied to the war economy.",
-    "lat": 53.0111,
-    "lng": 50.4823,
-    "tid": "prosvet-druzhba-station",
-    "tn": "Prosvet / Druzhba Oil Pumping Station",
-    "dmg": 25,
-    "cas": 0,
-    "dl": "MODERATE — Ukrainian deep strike targets Russian pipeline-linked oil logistics",
-    "dc": "dmg-moderate",
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/europe/ukraine-hits-russian-oil-pumping-station-part-druzhba-pipeline-2026-04-21/"
-      }
-    ]
   }
 ]
