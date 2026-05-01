@@ -1623,5 +1623,30 @@
         "url": "https://t.me/V_Zelenskiy_official/18837"
       }
     ]
+  },
+  {
+    "date": "2026-05-01",
+    "time": "daytime",
+    "side": "ukraine",
+    "title": "Ukraine says drones hit Su-57s and Su-34 at Shagol airfield",
+    "detail": "Ukraine's Unmanned Systems Forces and General Staff confirmed that an April 25 long-range drone operation struck Russian combat aircraft at Shagol airfield in Chelyabinsk Oblast, roughly 1,700 km from Ukraine. Follow-up satellite reconnaissance and USF reporting said at least three deep-strike assets hit two Su-57 stealth fighters, one Su-34 fighter-bomber, and another Su-family aircraft of unidentified modification, with varying damage; USF commander Robert Brovdi said targeting Su-34 and Su-57 aircraft is meant to reduce Russia's long-range strike capacity against Ukrainian infrastructure, military sites, and civilians.",
+    "lat": 55.26,
+    "lng": 61.3,
+    "tid": "shagol-airfield-su57-su34-strike-confirmed-2026-05-01",
+    "tn": "Shagol airfield, Chelyabinsk Oblast",
+    "dmg": 45,
+    "cas": 0,
+    "dl": "HEAVY — Rare confirmed deep strike damages high-value Su-57 and Su-34 aircraft",
+    "dc": "dmg-heavy",
+    "sources": [
+      {
+        "name": "Interfax-Ukraine",
+        "url": "https://en.interfax.com.ua/news/general/1164148.html"
+      },
+      {
+        "name": "Ukrainska Pravda",
+        "url": "https://www.pravda.com.ua/eng/news/2026/05/01/8032697/"
+      }
+    ]
   }
 ]
