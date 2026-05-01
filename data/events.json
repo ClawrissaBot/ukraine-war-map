@@ -1698,5 +1698,51 @@
         "url": "https://www.facebook.com/GeneralStaff.ua/posts/pfbid0oNWihRLr74HMboRgHhLD6wBfnzs7g3ARWQwuGF3uX1fFULormWqrY4yGsqHEvPDsl"
       }
     ]
+  },
+  {
+    "date": "2026-05-01",
+    "time": "daytime",
+    "side": "ukraine",
+    "title": "Zelensky says Ukraine's oil-infrastructure strike campaign cost Russia $7 billion in 2026",
+    "detail": "President Volodymyr Zelensky said Ukrainian long-range attacks on Russian oil infrastructure had cost Moscow at least $7 billion since the start of 2026, citing direct damage, prolonged downtime, and disrupted shipments. He said April marked a \"new level\" in the campaign and that Ukraine was preparing decisions to further expand long-range strike capabilities; Bloomberg data cited by the Kyiv Independent recorded at least 21 April strikes on refineries, pipelines, and maritime assets, pushing Russian refinery throughput to its lowest level since December 2009.",
+    "lat": 55.7558,
+    "lng": 37.6173,
+    "tid": "zelensky-oil-strikes-cost-russia-7b-2026-05-01",
+    "tn": "Russian oil infrastructure campaign",
+    "dmg": 35,
+    "cas": 0,
+    "dl": "HEAVY — Strategic oil-strike campaign reportedly cuts billions from Russian revenue",
+    "dc": "dmg-heavy",
+    "sources": [
+      {
+        "name": "Kyiv Independent",
+        "url": "https://kyivindependent.com/ukraine-strikes-cost-russia-7-billion-in-oil-revenue-in-2026-zelensky-says/"
+      },
+      {
+        "name": "Zelenskyy",
+        "url": "https://x.com/ZelenskyyUa/status/2050184754339742192"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-01",
+    "time": "daytime",
+    "side": "ukraine",
+    "title": "Ukrainian firm unveils Khmarynka mid-range strike drone for mass deployment",
+    "detail": "General Cherry unveiled Khmarynka, a low-cost mid-range strike drone designed for rapid mass production and battlefield testing by Ukraine's Defense Forces. The fixed-wing system is modeled on Russia's Molniya class, can reportedly carry a 5–8 kg payload up to 50 km, fly for up to 60 minutes, and is intended to exhaust Russian air defenses while striking armored vehicles, warehouses, and infantry bunkers; the company said an initial batch of 150 drones would be provided free for combat feedback.",
+    "lat": 50.4501,
+    "lng": 30.5234,
+    "tid": "khmarynka-midrange-strike-drone-unveiled-2026-05-01",
+    "tn": "Kyiv defense-tech sector",
+    "dmg": 0,
+    "cas": 0,
+    "dl": "LIGHT — New low-cost mid-range drone enters Ukrainian mass-strike toolkit",
+    "dc": "dmg-light",
+    "sources": [
+      {
+        "name": "Kyiv Independent",
+        "url": "https://kyivindependent.com/lightweight-but-most-importantly-cheap-ukraines-new-midrange-drone-designed-to-exhaust-russian-airdefence/"
+      }
+    ]
   }
 ]
