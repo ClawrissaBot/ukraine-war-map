@@ -1815,5 +1815,63 @@
         "url": "https://kyivindependent.com/heres-why-trumps-envoys-arent-going-to-ukraine/"
       }
     ]
+  },
+  {
+    "date": "2026-05-01",
+    "time": "daytime",
+    "side": "other",
+    "title": "Russian strikes fan out across Ukrainian regions after mass drone wave",
+    "detail": "As Russia's May 1 drone and shelling campaign continued beyond the major Ternopil strike, Ukrainian regional officials reported additional civilian damage and casualties across several oblasts. Dnipropetrovsk Oblast authorities said Russian drones and artillery hit Nikopol, Marhanets, Myrove, Chervonohryhorivka, Pokrovske, and Zelenodolsk nearly 50 times since morning, injuring four people and damaging a medical facility, shops, homes, vehicles, and a utility building. Kherson prosecutors reported artillery, mortar, and drone attacks that killed a 65-year-old cyclist in Kherson and injured five people, while Rivne Oblast reported five injured and damage to residential buildings, vehicles, and civilian infrastructure. Bohodukhiv in Kharkiv Oblast was also hit by a Molniia-type UAV at a food-processing plant, injuring four workers after more than 20 local strikes over 24 hours; Zhytomyr reported damage to sports and educational infrastructure without casualties.",
+    "lat": 48.4647,
+    "lng": 35.0462,
+    "tid": "multi-region-russian-strikes-dnipropetrovsk-kherson-rivne-bohodukhiv-2026-05-01",
+    "tn": "Dnipropetrovsk, Kherson, Rivne, Kharkiv, and Zhytomyr oblasts",
+    "dmg": 30,
+    "cas": 19,
+    "dl": "HEAVY — Regional drone, artillery, and mortar attacks kill 1 and injure at least 18 outside Ternopil",
+    "dc": "dmg-heavy",
+    "sources": [
+      {
+        "name": "Ukrinform",
+        "url": "https://www.ukrinform.net/rubric-ato/4118770-russians-attack-dnipropetrovsk-region-nearly-50-times-since-morning-leaving-four-injured.html"
+      },
+      {
+        "name": "Ukrinform",
+        "url": "https://www.ukrinform.net/rubric-ato/4118756-russian-shelling-in-kherson-region-leaves-one-killed-five-injured.html"
+      },
+      {
+        "name": "Ukrinform",
+        "url": "https://www.ukrinform.net/rubric-ato/4118750-russian-attack-in-rivne-region-leaves-five-injured-civilian-infrastructure-damaged.html"
+      },
+      {
+        "name": "Ukrinform",
+        "url": "https://www.ukrinform.net/rubric-ato/4118695-russian-drones-hit-food-processing-plant-in-bohodukhiv-injuring-four-workers.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-01",
+    "time": "evening",
+    "side": "ukraine",
+    "title": "Zelensky orders added air-defense measures for Dnipro and Odesa after dense drone attacks",
+    "detail": "President Volodymyr Zelensky said Ukraine would reinforce air defenses after Russia launched more than 400 drones during the day, including over 200 Shaheds, and still achieved hits despite Ukraine reporting 388 interceptions. Zelensky said military command and the Defense Ministry had already approved additional radars, electronic-warfare systems, and crews for Dnipro, while Odesa would also receive measures to push its interception rate higher; he said Kyiv is working daily with partners on components and will continue seeking May contributions through the PURL initiative and other defense-cooperation channels.",
+    "lat": 48.4647,
+    "lng": 35.0462,
+    "tid": "zelensky-dnipro-odesa-air-defense-reinforcement-2026-05-01",
+    "tn": "Dnipro and Odesa air-defense sectors",
+    "dmg": 0,
+    "cas": 0,
+    "dl": "LIGHT — New radars, EW systems, and crews ordered after high-density drone barrage",
+    "dc": "dmg-light",
+    "sources": [
+      {
+        "name": "Ukrinform",
+        "url": "https://www.ukrinform.net/rubric-ato/4118790-zelensky-announces-strengthening-of-air-defense-decisions-made-for-dnipro-and-odesa.html"
+      },
+      {
+        "name": "Zelensky Telegram",
+        "url": "https://t.me/V_Zelenskiy_official/18844"
+      }
+    ]
   }
 ]
