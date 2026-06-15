@@ -1,6 +1,44 @@
 [
   {
     "date": "2025-04-11",
+    "time": "baseline",
+    "side": "report",
+    "title": "Casualty baseline checkpoint at timeline start",
+    "detail": "Official/verified casualty baselines available at the start of this map range: UN/OHCHR had verified at least 12,654 Ukrainian civilians killed by the third anniversary; Zelenskyy reported 45,100 Ukrainian soldiers killed as of Feb. 2025; Ukraine's General Staff estimated Russian personnel losses at 930,210 as of Apr. 11, 2025. Russian personnel losses are not the same as killed.",
+    "lat": 50.4501,
+    "lng": 30.5234,
+    "tid": "casualty-checkpoint-2025-04-11-baseline",
+    "tn": "Kyiv / official casualty reports",
+    "dmg": 0,
+    "cas": 0,
+    "dl": "CASUALTY CHECKPOINT — baseline for selected-range estimates",
+    "dc": "dmg-light",
+    "casualtyReport": {
+      "label": "Timeline-start baseline",
+      "asOf": "2025-04-11",
+      "civilianKilledVerified": 12654,
+      "ukrainianMilitaryKilledOfficial": 45100,
+      "russianPersonnelLossesClaimed": 930210,
+      "russianMilitaryKilledClaimed": 350000,
+      "notes": "Civilian figure is the latest broad UN verified total before this event range (reported around the third anniversary). Russian personnel losses are Ukraine General Staff estimates and include more than killed. Zelenskyy's Russian killed figure is a Ukrainian presidential claim, not a Russian official admission."
+    },
+    "sources": [
+      {
+        "name": "UN Security Council / OHCHR via UN Press",
+        "url": "https://press.un.org/en/2025/sc16006.doc.htm"
+      },
+      {
+        "name": "Kyiv Independent quoting Zelenskyy",
+        "url": "https://kyivindependent.com/over-45-000-ukrainian-soldiers-killed-since-start-of-war-zelensky-says/"
+      },
+      {
+        "name": "Ukrainska Pravda / Ukraine General Staff",
+        "url": "https://www.pravda.com.ua/eng/news/2025/04/11/7507052/"
+      }
+    ]
+  },
+  {
+    "date": "2025-04-11",
     "time": "morning",
     "side": "other",
     "title": "Russian missile strike on Dnipro kills civilians",
@@ -1521,6 +1559,38 @@
       {
         "name": "SBU",
         "url": "https://t.me/SBUkr/17434"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-30",
+    "time": "official update",
+    "side": "report",
+    "title": "UN/OHCHR updates verified civilian deaths through April 2026",
+    "detail": "OHCHR/HRMMU reporting for April 2026 put verified civilian deaths since Feb. 24, 2022 at 15,850 killed and 44,809 injured through Apr. 30, 2026; the UN says actual figures are likely higher.",
+    "lat": 50.4501,
+    "lng": 30.5234,
+    "tid": "casualty-checkpoint-2026-04-30-ohchr-civilians",
+    "tn": "Ukraine — UN verified civilian casualties",
+    "dmg": 0,
+    "cas": 0,
+    "dl": "OFFICIAL CHECKPOINT — UN verified civilian killed total updated",
+    "dc": "dmg-light",
+    "casualtyReport": {
+      "label": "UN/OHCHR civilian checkpoint",
+      "asOf": "2026-04-30",
+      "civilianKilledVerified": 15850,
+      "civilianInjuredVerified": 44809,
+      "notes": "UN/OHCHR verified civilian casualties; actual figures are likely higher due to delayed verification and access limits."
+    },
+    "sources": [
+      {
+        "name": "UN HRMMU April 2026 update",
+        "url": "https://ukraine.ohchr.org/en/Protection-of-Civilians-in-Armed-Conflict-April-2026"
+      },
+      {
+        "name": "UN HRMMU press release",
+        "url": "https://ukraine.ohchr.org/en/UN-Human-Rights-Monitors-Warn-of-Rising-Civilian-Casualties"
       }
     ]
   },
@@ -5251,6 +5321,34 @@
   },
   {
     "date": "2026-06-02",
+    "time": "official update",
+    "side": "report",
+    "title": "UN notes 2026 civilian casualty pace rising after mass Russian attack",
+    "detail": "UN HRMMU said a large Russian drone and missile attack killed at least 22 civilians and injured 145, and that civilian casualty figures so far in 2026 were about 20% higher than the same period in 2025.",
+    "lat": 50.4501,
+    "lng": 30.5234,
+    "tid": "casualty-checkpoint-2026-06-02-ohchr-attack",
+    "tn": "Kyiv / Dnipro — UN HRMMU civilian harm update",
+    "dmg": 0,
+    "cas": 22,
+    "dl": "OFFICIAL INCIDENT REPORT — at least 22 civilians killed in one overnight attack",
+    "dc": "dmg-heavy",
+    "casualtyReport": {
+      "label": "UN HRMMU incident checkpoint",
+      "asOf": "2026-06-02",
+      "incidentCivilianKilled": 22,
+      "incidentCivilianInjured": 145,
+      "notes": "Incident-level UN/Human Rights Monitoring Mission report; included in timeline estimate via cas=22."
+    },
+    "sources": [
+      {
+        "name": "UN HRMMU",
+        "url": "https://ukraine.ohchr.org/en/In-Ukraine-Overnight-Russian-Attack-Leaves-Dozens-Dead-and-Injured"
+      }
+    ]
+  },
+  {
+    "date": "2026-06-02",
     "time": "overnight",
     "side": "russia",
     "title": "Russia launches 729-target missile-and-drone assault; Ukraine neutralizes 40 missiles and 602 drones",
@@ -7034,6 +7132,33 @@
       {
         "name": "The Guardian",
         "url": "https://www.theguardian.com/world/2026/jun/14/ukraine-war-briefing-trump-g7-zelenskyy"
+      }
+    ]
+  },
+  {
+    "date": "2026-06-15",
+    "time": "official update",
+    "side": "report",
+    "title": "Ukraine MOD reports Russian personnel losses at 1,384,190",
+    "detail": "Ukraine's Ministry of Defence reported estimated Russian personnel losses of about 1,384,190 since Feb. 24, 2022. This is a combat-loss/personnel-loss figure, not a confirmed killed-only death toll.",
+    "lat": 50.4501,
+    "lng": 30.5234,
+    "tid": "casualty-checkpoint-2026-06-15-ua-mod-russian-losses",
+    "tn": "Ukraine General Staff / Ministry of Defence",
+    "dmg": 0,
+    "cas": 0,
+    "dl": "OFFICIAL CHECKPOINT — Russian personnel losses claim updated",
+    "dc": "dmg-light",
+    "casualtyReport": {
+      "label": "Ukraine MOD Russian personnel-loss checkpoint",
+      "asOf": "2026-06-15",
+      "russianPersonnelLossesClaimed": 1384190,
+      "notes": "Ukraine MOD/General Staff estimated total Russian personnel losses. This includes more than killed and should not be summed into killed totals."
+    },
+    "sources": [
+      {
+        "name": "Ukraine Ministry of Defence",
+        "url": "https://mod.gov.ua/en/news/total-russian-combat-losses-in-ukraine-as-of-june-15-2026"
       }
     ]
   },
