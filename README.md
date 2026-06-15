@@ -21,4 +21,4 @@ This version is a backfilled starting point intended to mirror the original proj
 
 ## Live Site
 
-https://zigdon-code-factory.github.io/ukraine-war-map/
+https://clawrissabot.github.io/ukraine-war-map/
