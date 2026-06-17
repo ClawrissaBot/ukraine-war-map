@@ -17,6 +17,9 @@ body { font-family: 'Segoe UI', system-ui, sans-serif; background: #0a0e17; colo
 #timeline-header { padding: 14px 16px; border-bottom: 1px solid #1e2a3a; flex-shrink: 0; }
 #timeline-header h2 { font-size: 13px; color: #8b949e; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px; }
 #data-info { font-size: 9px; color: #4a5568; margin-bottom: 8px; }
+.resource-links { display:flex; gap:8px; flex-wrap:wrap; margin-bottom:8px; font-size:10px; }
+.resource-links a { color:#58a6ff; text-decoration:none; border:1px solid #30363d; border-radius:10px; padding:2px 8px; background:rgba(88,166,255,0.06); }
+.resource-links a:hover { border-color:#58a6ff; background:rgba(88,166,255,0.12); }
 #playback { display: flex; align-items: center; gap: 6px; margin-bottom: 10px; }
 #playback button { padding: 5px 10px; border-radius: 6px; border: 1px solid #30363d; background: #161b22; color: #c9d1d9; cursor: pointer; font-size: 13px; transition: all 0.15s; }
 #playback button:hover { background: #1f2937; border-color: #58a6ff; }
@@ -239,6 +242,10 @@ body { font-family: 'Segoe UI', system-ui, sans-serif; background: #0a0e17; colo
     <div id="timeline-header">
       <h2>⚔️ Russia-Ukraine War — Timeline</h2>
       <div id="data-info"></div>
+      <div class="resource-links">
+        <a href="events.html" target="_blank" rel="noopener">{ } Raw event JSON</a>
+        <a href="data/events.json" target="_blank" rel="noopener">Direct JSON</a>
+      </div>
       <div id="playback">
         <button onclick="goFirst()">⏮</button>
         <button onclick="goPrev()">⏪ Back</button>

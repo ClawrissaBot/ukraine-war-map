@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Russia-Ukraine War — Raw Event JSON</title>
+<style>
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: #0a0e17;
+  color: #c9d1d9;
+  font-family: 'Segoe UI', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+}
+header {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 14px 18px;
+  background: rgba(13, 17, 23, 0.96);
+  border-bottom: 1px solid #1e2a3a;
+  backdrop-filter: blur(8px);
+}
+h1 { margin: 0; font-size: 16px; color: #e6edf3; }
+.meta { margin-top: 4px; font-size: 11px; color: #8b949e; }
+.actions { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-end; }
+a, button {
+  appearance: none;
+  border: 1px solid #30363d;
+  border-radius: 8px;
+  background: #161b22;
+  color: #58a6ff;
+  padding: 7px 11px;
+  font: inherit;
+  font-size: 12px;
+  text-decoration: none;
+  cursor: pointer;
+}
+a:hover, button:hover { border-color: #58a6ff; background: #1a2332; }
+main { padding: 16px; }
+pre {
+  margin: 0;
+  padding: 16px;
+  min-height: calc(100vh - 92px);
+  overflow: auto;
+  background: #0d1117;
+  border: 1px solid #1e2a3a;
+  border-radius: 10px;
+  color: #d1d7e0;
+  font: 12px/1.55 ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+.status { color: #8b949e; }
+.error { color: #f87171; }
+@media (max-width: 700px) {
+  header { align-items: flex-start; flex-direction: column; }
+  .actions { justify-content: flex-start; }
+  main { padding: 10px; }
+  pre { font-size: 11px; }
+}
+</style>
+</head>
+<body>
+<header>
+  <div>
+    <h1>Raw event JSON</h1>
+    <div class="meta" id="meta">Loading data/events.json…</div>
+  </div>
+  <nav class="actions" aria-label="Raw event JSON actions">
+    <a href="./">← Map</a>
+    <a href="data/events.json" download>Download JSON</a>
+    <button type="button" id="copy-btn">Copy JSON</button>
+  </nav>
+</header>
+<main>
+  <pre id="json" class="status">Loading…</pre>
+</main>
+<script>
+const jsonEl = document.getElementById('json');
+const metaEl = document.getElementById('meta');
+const copyBtn = document.getElementById('copy-btn');
+let rawJson = '';
+
+async function loadRawEvents() {
+  try {
+    const response = await fetch('data/events.json', { cache: 'no-store' });
+    if (!response.ok) throw new Error(`${response.status} ${response.statusText}`);
+    const data = await response.json();
+    rawJson = JSON.stringify(data, null, 2);
+    jsonEl.className = '';
+    jsonEl.textContent = rawJson;
+
+    const dates = [...new Set(data.map(event => event.date).filter(Boolean))].sort();
+    const firstDate = dates[0] || 'unknown start';
+    const lastDate = dates[dates.length - 1] || 'unknown end';
+    metaEl.textContent = `${data.length.toLocaleString()} events · ${firstDate} → ${lastDate} · source: data/events.json`;
+  } catch (err) {
+    jsonEl.className = 'error';
+    jsonEl.textContent = `Could not load data/events.json\n\n${err.message}`;
+    metaEl.textContent = 'Failed to load raw event data';
+  }
+}
+
+copyBtn.addEventListener('click', async () => {
+  if (!rawJson) return;
+  try {
+    await navigator.clipboard.writeText(rawJson);
+    copyBtn.textContent = 'Copied';
+    setTimeout(() => { copyBtn.textContent = 'Copy JSON'; }, 1400);
+  } catch (err) {
+    copyBtn.textContent = 'Copy failed';
+    setTimeout(() => { copyBtn.textContent = 'Copy JSON'; }, 1800);
+  }
+});
+
+loadRawEvents();
+</script>
+</body>
+</html>

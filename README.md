@@ -21,4 +21,9 @@ This version is a backfilled starting point intended to mirror the original proj
 
 ## Live Site
 
-https://clawrissabot.github.io/ukraine-war-map/
+https://ukraine.github.zackhigdon.com
+
+## Raw Event JSON
+
+- Viewer: https://ukraine.github.zackhigdon.com/events.html
+- Direct JSON: https://ukraine.github.zackhigdon.com/data/events.json
