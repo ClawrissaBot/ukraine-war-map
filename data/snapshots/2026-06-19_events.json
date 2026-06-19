@@ -7656,7 +7656,7 @@
     "time": "overnight",
     "side": "ukraine",
     "title": "Ukraine hits Moscow Oil Refinery again and strikes Gukovo oil depot and occupation logistics targets",
-    "detail": "President Volodymyr Zelensky confirmed Ukrainian long-range strikes hit the Moscow Oil Refinery for the second time in a week, calling the attack a justified response to Russian strikes on Ukrainian cities. Ukrainian and Russian reports described multiple fires at the Kapotnya refinery, major Moscow flight disruptions, and additional strikes on the Gukovo oil depot in Rostov Oblast, where Russian officials said one person was killed and two injured. Ukrainian sources also reported strikes on bridges in occupied Donetsk Oblast and Crimea, a command post near Soledar, fuel depots in Mariupol and Piatypillia, and a matériel depot near Boikivske; open-source analysts separately reported a fire at a possible military storage facility near Shebekino in Belgorod Oblast. Reuters later reported, citing industry sources, that the second strike damaged the Euro+ integrated oil-processing unit, several secondary installations, inter-unit pipelines, auxiliary equipment and petroleum-product storage tanks, after an earlier strike had damaged the refinery's CDU-6 unit.",
+    "detail": "President Volodymyr Zelensky confirmed Ukrainian long-range strikes hit the Moscow Oil Refinery for the second time in a week, calling the attack a justified response to Russian strikes on Ukrainian cities. Ukrainian and Russian reports described multiple fires at the Kapotnya refinery, major Moscow flight disruptions, and additional strikes on the Gukovo oil depot in Rostov Oblast, where Russian officials said one person was killed and two injured. Ukrainian sources also reported strikes on bridges in occupied Donetsk Oblast and Crimea, a command post near Soledar, fuel depots in Mariupol and Piatypillia, and a matériel depot near Boikivske; open-source analysts separately reported a fire at a possible military storage facility near Shebekino in Belgorod Oblast.",
     "lat": 55.6359,
     "lng": 37.7926,
     "tid": "ukraine-hits-moscow-oil-refinery-gukovo-oil-depot-occupation-logistics-2026-06-18",
@@ -7677,110 +7677,6 @@
       {
         "name": "Ukrainska Pravda",
         "url": "https://www.pravda.com.ua/eng/news/2026/06/18/8039905/"
-      },
-      {
-        "name": "Ukrinform/Reuters",
-        "url": "https://www.ukrinform.net/rubric-ato/4135371-moscow-refinery-sustains-significant-damage-after-two-drone-attacks-reuters.html"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-18",
-    "time": "daytime",
-    "side": "russia",
-    "title": "Russian strikes across Dnipropetrovsk region kill two and injure 17 in Dnipro, Nikopol and Kryvyi Rih districts",
-    "detail": "Dnipropetrovsk regional authorities said Russian forces carried out more than 20 artillery, drone and missile attacks across three districts on June 18, killing two people and injuring 17. One person was killed and 12 injured in Dnipro, while attacks on Nikopol and nearby communities killed one more person and wounded five; strikes also damaged vehicles, an outpatient clinic, a gas station and a cafe in the Nikopol and Kryvyi Rih districts.",
-    "lat": 48.4647,
-    "lng": 35.0462,
-    "tid": "russian-strikes-dnipropetrovsk-dnipro-nikopol-two-killed-seventeen-injured-2026-06-18",
-    "tn": "Dnipro, Nikopol and Kryvyi Rih districts, Dnipropetrovsk Oblast",
-    "dmg": 65,
-    "cas": 19,
-    "dl": "REGIONAL STRIKES — over 20 attacks across Dnipropetrovsk Oblast; two killed, 17 injured",
-    "dc": "dmg-heavy",
-    "sources": [
-      {
-        "name": "Ukrinform",
-        "url": "https://www.ukrinform.net/rubric-ato/4135342-two-killed-17-injured-as-russia-launches-over-20-attacks-on-dnipropetrovsk-region.html"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-18",
-    "time": "Ramstein meeting",
-    "side": "other",
-    "title": "Ukraine Defense Contact Group announcements could reach $4 billion, including PURL weapons, drones and air-defense programs",
-    "detail": "Ukrainian Defense Minister Mykhailo Fedorov said new commitments announced at the Ukraine Defense Contact Group meeting could total about $4 billion, including a $1 billion package under the PURL mechanism for U.S.-made weapons and roughly $500 million for long-range artillery ammunition. Fedorov said partners focused on Ukraine's priorities of anti-ballistic and missile defense, long-range artillery and Ukrainian-made drones, with the Netherlands announcing assistance involving around 700 cruise missiles, Britain using frozen Russian assets to fund 150,000 drones, and Ukraine and Germany signing a data-exchange document for an anti-ballistic defense program.",
-    "lat": 50.8503,
-    "lng": 4.3517,
-    "tid": "ukraine-defense-contact-group-four-billion-purl-drones-air-defense-2026-06-18",
-    "tn": "Ukraine Defense Contact Group meeting, Brussels",
-    "dmg": 25,
-    "cas": 0,
-    "dl": "MILITARY AID — Ramstein announcements could reach $4B for PURL weapons, artillery, drones and air defense",
-    "dc": "dmg-light",
-    "sources": [
-      {
-        "name": "Ukrinform",
-        "url": "https://www.ukrinform.net/rubric-ato/4135374-fedorov-on-ukraine-defense-contact-group-meeting-aid-could-reach-4b.html"
-      },
-      {
-        "name": "Institute for the Study of War",
-        "url": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-june-18-2026/"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-19",
-    "time": "overnight/morning",
-    "side": "russia",
-    "title": "Russia launches 90 drones across Ukraine; Pavlohrad child killed and Kharkiv homes damaged in morning strikes",
-    "detail": "Ukraine's Air Force said Russian forces launched 90 Shahed, Gerbera, Italmas, Banderol and decoy UAVs from Bryansk, Orel, Primorsko-Akhtarsk and occupied Hvardiiske starting at 18:00 on June 18; air defenses shot down or neutralized 79 by 08:30, while nine drones hit eight locations. Regional officials said a morning attack on Pavlohrad killed an eight-year-old girl, wounded a 49-year-old woman and set two private homes on fire, while glide bombs on Kharkiv's Kholodnohirskyi district damaged more than 40 homes and injured at least nine people, including four children.",
-    "lat": 48.3794,
-    "lng": 31.1656,
-    "tid": "russia-90-drones-ukraine-pavlohrad-child-killed-kharkiv-nine-injured-2026-06-19",
-    "tn": "Ukraine-wide air attack; Pavlohrad and Kharkiv",
-    "dmg": 65,
-    "cas": 11,
-    "dl": "AIR ATTACK — 90 drones launched; Pavlohrad child killed and Kharkiv homes damaged",
-    "dc": "dmg-heavy",
-    "sources": [
-      {
-        "name": "Ukrinform",
-        "url": "https://www.ukrinform.net/rubric-ato/4135495-air-defense-forces-shoot-down-79-of-90-enemy-drones.html"
-      },
-      {
-        "name": "Ukrinform",
-        "url": "https://www.ukrinform.net/rubric-ato/4135484-russians-attack-pavlohrad-8yearold-girl-killed-and-another-person-wounded.html"
-      },
-      {
-        "name": "Ukrinform",
-        "url": "https://www.ukrinform.net/rubric-ato/4135448-airstrike-on-kharkiv-casualty-toll-climbs-to-nine-four-of-whom-children.html"
-      },
-      {
-        "name": "Kyiv Independent",
-        "url": "https://kyivindependent.com/russian-attack-damages-over-40-homes-in-kharkiv-injures-6/"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-19",
-    "time": "morning",
-    "side": "russia",
-    "title": "Russian drones hit Panama and St. Kitts and Nevis-flagged merchant ships in the Black Sea, killing one sailor",
-    "detail": "Ukraine's restoration minister Oleksii Kuleba said Russian UAVs attacked civilian vessels in the Black Sea, killing a crew member on a Panamanian-flagged ship and injuring two other sailors, one severely. A second vessel flying the flag of St. Kitts and Nevis was also struck, lightly injuring three crew members; Kuleba said the attacks targeted civilian crews, merchant ships and maritime infrastructure supporting humanitarian and export routes.",
-    "lat": 45.8,
-    "lng": 31.2,
-    "tid": "russian-drones-hit-panama-st-kitts-nevis-ships-black-sea-one-killed-five-injured-2026-06-19",
-    "tn": "Black Sea maritime corridor",
-    "dmg": 70,
-    "cas": 6,
-    "dl": "BLACK SEA SHIPPING ATTACK — two merchant vessels hit; one sailor killed, five injured",
-    "dc": "dmg-heavy",
-    "sources": [
-      {
-        "name": "Ukrinform",
-        "url": "https://www.ukrinform.net/rubric-ato/4135466-russia-attacks-panama-and-st-kitts-and-nevis-ships-in-black-sea-one-person-killed-and-others-injured.html"
       }
     ]
   }
