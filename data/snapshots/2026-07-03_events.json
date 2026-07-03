@@ -9199,15 +9199,15 @@
     "date": "2026-07-02",
     "time": "overnight",
     "side": "russia",
-    "title": "Russia launches 570-missile-and-drone barrage on Kyiv, killing at least 30",
-    "detail": "Russia launched a massive combined overnight attack on 1-2 July using 74 missiles and 496 drones, with Kyiv the main target. Ukraine's Air Force said air defences shot down or jammed 524 of 570 aerial targets, but 25 ballistic missiles and 12 attack drones hit 33 locations. Kyiv authorities and emergency services raised the toll to at least 30 killed and 91 injured as rescuers continued searching the partially collapsed residential building in Darnytskyi district. Damage was reported across every district, including an ambulance station, scientific institute, hotel, businesses, energy infrastructure and internet equipment; Kyiv declared 3 July a day of mourning.",
+    "title": "Russia launches 570-missile-and-drone barrage on Kyiv, killing at least 17",
+    "detail": "Russia launched a massive combined overnight attack on 1-2 July using 74 missiles and 496 drones, with Kyiv the main target. Ukraine's Air Force said air defences shot down or jammed 524 of 570 aerial targets, but 25 ballistic missiles and 12 attack drones hit 33 locations. Kyiv authorities and emergency services reported at least 17 killed and 86 injured, damage across every district, a partially collapsed residential building, fires, and damage to an ambulance station, scientific institute, hotel and businesses; Kyiv declared 3 July a day of mourning.",
     "lat": 50.4501,
     "lng": 30.5234,
     "tid": "russia-570-missiles-drones-kyiv-17-killed-86-injured-2026-07-02",
     "tn": "Kyiv, Ukraine",
     "dmg": 95,
-    "cas": 121,
-    "dl": "MASS BARRAGE — 74 missiles + 496 drones; Kyiv toll rises to 30 killed, 91 injured",
+    "cas": 103,
+    "dl": "MASS BARRAGE — 74 missiles + 496 drones; Kyiv hit across all districts",
     "dc": "dmg-critical",
     "sources": [
       {
@@ -9221,10 +9221,6 @@
       {
         "name": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/7/2/kyiv-attacked-after-ukraines-zelenskyy-warns-of-massive-russian-strike"
-      },
-      {
-        "name": "Ukrainska Pravda",
-        "url": "https://www.pravda.com.ua/eng/news/2026/07/03/8042186/"
       }
     ]
   },
@@ -9254,93 +9250,6 @@
       {
         "name": "Militarnyi",
         "url": "https://militarnyi.com/en/news/drones-russia-4th-large-oil-refinery-lukoil/"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-02",
-    "time": "48-hour operation",
-    "side": "ukraine",
-    "title": "Ukrainian drones disable 12 substations and a gas distribution station across occupied territories",
-    "detail": "Ukraine's Unmanned Systems Forces commander Robert Brovdi said Ukrainian drone units struck 12 electrical substations and one gas distribution station across Russian-occupied territory during a July 1-2, 48-hour operation. The targets included ten substations in occupied Crimea, the Starobesheve thermal power plant substation in occupied Donetsk Oblast, an electrical substation and gas distribution station in occupied Luhansk Oblast, and a fuel-and-lubricants depot in Melitopol, Zaporizhzhia Oblast. Ukrainian reports said the strikes shut down parts of the Russian-controlled energy grid and supported Kyiv's campaign to disrupt Russian logistics and infrastructure behind the front.",
-    "lat": 45.1919,
-    "lng": 33.3678,
-    "tid": "ukraine-drones-12-substations-gas-station-occupied-territories-2026-07-02",
-    "tn": "Occupied Crimea, Luhansk, Donetsk and Zaporizhzhia oblasts",
-    "dmg": 80,
-    "cas": 0,
-    "dl": "GRID STRIKES — 12 substations + 1 gas distribution station disabled across occupied territories",
-    "dc": "dmg-heavy",
-    "sources": [
-      {
-        "name": "UNITED24 Media",
-        "url": "https://united24media.com/war-in-ukraine/ukrainian-forces-target-russian-energy-grid-striking-12-substations-in-48-hours-20400"
-      },
-      {
-        "name": "Kyiv Independent",
-        "url": "https://kyivindependent.com/moscow-will-fall-13-russian-power-stations-shut-down-across-occupied-ukraine/"
-      },
-      {
-        "name": "Institute for the Study of War",
-        "url": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-july-2-2026/"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-03",
-    "time": "overnight",
-    "side": "russia",
-    "title": "Russian overnight strikes kill four and injure 10 in Sumy Oblast and Kryvyi Rih",
-    "detail": "Russian overnight attacks killed four civilians and injured 10 more, Ukrainian officials told Reuters. In Sumy Oblast, a Russian drone hit a house, killing two women, an elderly man and a girl younger than two years old, and injuring three others. In Kryvyi Rih, a Russian missile strike hit a densely built urban area, injuring seven people.",
-    "lat": 50.9077,
-    "lng": 34.7981,
-    "tid": "russian-overnight-strikes-sumy-kryvyi-rih-4-killed-10-injured-2026-07-03",
-    "tn": "Sumy Oblast and Kryvyi Rih, Ukraine",
-    "dmg": 55,
-    "cas": 14,
-    "dl": "OVERNIGHT ATTACKS — 4 killed in Sumy Oblast; 7 injured in Kryvyi Rih",
-    "dc": "dmg-heavy",
-    "sources": [
-      {
-        "name": "Reuters via WTVB",
-        "url": "https://wtvbam.com/2026/07/03/russian-attacks-kill-4-injure-10-in-ukraine-overnight-officials-say/"
-      },
-      {
-        "name": "Reuters via WKZO",
-        "url": "https://wkzo.com/2026/07/03/at-least-two-dead-in-russian-border-regions-after-ukrainian-drone-attacks/"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-03",
-    "time": "early morning",
-    "side": "ukraine",
-    "title": "Ukrainian missiles hit Belgorod energy infrastructure, causing power and water outages",
-    "detail": "Russian regional authorities and local media reported that Ukrainian missiles struck Belgorod and the surrounding district early on July 3, seriously damaging energy infrastructure and causing power and water disruptions in several municipalities. Reports identified fires and damage at the Yuzhnaya substation and a substation on the grounds of the GT TEC Energo/Michurinskaya power plant complex; Kyiv Independent also reported flames at the Energomash Belgorod energy-equipment plant. Belgorod authorities said one woman was killed by shrapnel in a car and five vehicles were damaged.",
-    "lat": 50.5954,
-    "lng": 36.5873,
-    "tid": "ukrainian-missiles-belgorod-energy-infrastructure-outages-2026-07-03",
-    "tn": "Belgorod, Russia",
-    "dmg": 75,
-    "cas": 1,
-    "dl": "ENERGY STRIKE — Belgorod substations/power plant hit; outages, 1 killed",
-    "dc": "dmg-heavy",
-    "sources": [
-      {
-        "name": "Ukrainska Pravda",
-        "url": "https://www.pravda.com.ua/eng/news/2026/07/03/8042205/"
-      },
-      {
-        "name": "Kyiv Post",
-        "url": "https://www.kyivpost.com/post/79482"
-      },
-      {
-        "name": "Meduza",
-        "url": "https://meduza.io/en/news/2026/07/03/ukrainian-missiles-strike-belgorod-killing-one-woman-and-causing-power-and-water-outages"
-      },
-      {
-        "name": "Reuters via WKZO",
-        "url": "https://wkzo.com/2026/07/03/at-least-two-dead-in-russian-border-regions-after-ukrainian-drone-attacks/"
       }
     ]
   }
