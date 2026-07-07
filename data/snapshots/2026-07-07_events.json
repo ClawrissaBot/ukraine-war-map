@@ -9535,15 +9535,15 @@
     "date": "2026-07-06",
     "time": "overnight",
     "side": "russia",
-    "title": "Russia launches 419-missile-and-drone barrage centered on Kyiv, killing at least 22",
-    "detail": "Russia launched a large combined strike overnight on July 5-6, with Kyiv as the primary target. Ukraine's Air Force said it detected 419 aerial assets: 68 missiles, including 23 Iskander-M/S-400 ballistic missiles and six Zircon/Oniks anti-ship missiles, plus 351 attack and decoy drones. Air defenses destroyed or jammed 363 targets, including 37 missiles and 326 drones, but 29 ballistic or anti-ship missiles and 18 UAVs hit 34 locations. Kyiv officials and President Volodymyr Zelensky reported heavy damage to apartment blocks in Podilskyi, Obolonskyi, Holosiivskyi and Darnytskyi districts and evacuations near a strike site in Vyshneve; AP later reported at least 22 people killed. Ukrainian officials said none of the ballistic missiles were intercepted, underscoring a shortage of Patriot interceptor missiles ahead of the NATO summit.",
+    "title": "Russia launches 419-missile-and-drone barrage centered on Kyiv, killing at least 14",
+    "detail": "Russia launched a large combined strike overnight on July 5-6, with Kyiv as the primary target. Ukraine's Air Force said it detected 419 aerial assets: 68 missiles, including 23 Iskander-M/S-400 ballistic missiles and six Zircon/Oniks anti-ship missiles, plus 351 attack and decoy drones. Air defenses destroyed or jammed 363 targets, including 37 missiles and 326 drones, but 29 ballistic or anti-ship missiles and 18 UAVs hit 34 locations. Kyiv officials and President Volodymyr Zelensky reported at least 14 killed and 60 injured in Kyiv and Kyiv Oblast, including children, with apartment blocks damaged in Podilskyi, Obolonskyi, Holosiivskyi and Darnytskyi districts and evacuations ordered near a strike site in Vyshneve. Ukrainian officials said none of the ballistic missiles were intercepted, underscoring a shortage of Patriot interceptor missiles ahead of the NATO summit.",
     "lat": 50.4501,
     "lng": 30.5234,
     "tid": "russia-419-missile-drone-barrage-kyiv-14-killed-patriot-shortage-2026-07-06",
     "tn": "Kyiv and Kyiv Oblast, Ukraine",
     "dmg": 95,
-    "cas": 82,
-    "dl": "MASS STRIKE — 419 aerial assets; Kyiv apartment blocks hit; at least 22 killed, 60 injured",
+    "cas": 74,
+    "dl": "MASS STRIKE — 419 aerial assets; Kyiv apartment blocks hit; at least 14 killed, 60 injured",
     "dc": "dmg-critical",
     "sources": [
       {
@@ -9561,10 +9561,6 @@
       {
         "name": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/7/6/russian-attacks-on-ukraine-kill-11-on-eve-of-nato-summit-authorities-say"
-      },
-      {
-        "name": "Associated Press",
-        "url": "https://apnews.com/article/russia-ukraine-war-july-6-2026-0280e3d86022720fd5fa0236122ad90e"
       }
     ]
   },
@@ -9594,93 +9590,6 @@
       {
         "name": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/7/6/russian-attacks-on-ukraine-kill-11-on-eve-of-nato-summit-authorities-say"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-06",
-    "time": "evening",
-    "side": "ukraine",
-    "title": "Ukrainian drones hit Russia's largest oil refinery in Omsk, deepest strike of the war",
-    "detail": "Ukraine's military said Special Operations Forces drones struck the Omsk oil refinery in western Siberia on July 6, the first Ukrainian UAV attack on the facility and the deepest long-range strike into Russian territory since the full-scale invasion. Ukrainian officials said the drones travelled up to 3,000 kilometers and hit critical equipment, including the ELOU-AVT-11 primary oil refining unit, causing a fire whose damage was still being assessed. The Gazprom Neft-operated Omsk refinery is Russia's largest, with roughly 21 million tonnes of annual capacity and a major role in gasoline, diesel and aviation fuel supply; Omsk Governor Vitaly Khotsenko confirmed that several drones penetrated air defenses and attacked the refinery. The strike came amid a broader Ukrainian campaign against Russian fuel infrastructure, including attacks on Yaroslavl, Ust-Luga, Vysotsk, Kaluga and occupied-Crimea fuel sites.",
-    "lat": 55.038,
-    "lng": 73.302,
-    "tid": "ukraine-drones-hit-omsk-largest-russian-oil-refinery-deepest-strike-2026-07-06",
-    "tn": "Omsk oil refinery, Omsk, Russia",
-    "dmg": 95,
-    "cas": 0,
-    "dl": "DEEPEST STRIKE — Russia’s largest refinery hit ~2,500–3,000 km from Ukraine; key crude unit reportedly struck",
-    "dc": "dmg-critical",
-    "sources": [
-      {
-        "name": "Kyiv Independent",
-        "url": "https://kyivindependent.com/russias-largest-oil-refinery-in-flames-as-ukraine-strikes-omsk-2-500-km-away-from-border/"
-      },
-      {
-        "name": "Ukrainska Pravda / SOF",
-        "url": "https://www.pravda.com.ua/eng/news/2026/07/06/8042644/"
-      },
-      {
-        "name": "The Moscow Times",
-        "url": "https://www.themoscowtimes.com/2026/07/06/ukraine-strikes-russias-largest-oil-refinery-in-western-siberia-a93177"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-07",
-    "time": "overnight",
-    "side": "ukraine",
-    "title": "Russia reports one of the largest Ukrainian drone waves toward Moscow region",
-    "detail": "Moscow Mayor Sergei Sobyanin said more than 430 Ukrainian drones flew toward the Moscow region between the evening of July 6 and 06:00 on July 7, while Russia's Defense Ministry said air defenses shot down 452 Ukrainian drones across Russian regions overnight. Sobyanin said most drones were neutralized on distant approaches and 36 were downed while approaching Moscow, with falling debris reported but no immediate casualty details around the capital. The reported wave temporarily restricted operations at Moscow's major airports and was described by Russian state media as the largest attack on the capital in two years, extending Ukraine's campaign to bring long-range pressure on Moscow and Russian strategic infrastructure.",
-    "lat": 55.7558,
-    "lng": 37.6173,
-    "tid": "ukraine-large-drone-wave-moscow-region-sheremetyevo-restrictions-2026-07-07",
-    "tn": "Moscow region, Russia",
-    "dmg": 60,
-    "cas": 0,
-    "dl": "MOSCOW REGION — Russia claims 430+ drones headed toward capital; major airport restrictions",
-    "dc": "dmg-heavy",
-    "sources": [
-      {
-        "name": "Kyiv Post",
-        "url": "https://www.kyivpost.com/post/79726"
-      },
-      {
-        "name": "Meduza",
-        "url": "https://meduza.io/en/news/2026/07/07/ukraine-sends-more-than-430-drones-toward-moscow-belgorod-hit-by-missile-strike-one-person-killed"
-      },
-      {
-        "name": "The Moscow Times",
-        "url": "https://www.themoscowtimes.com/2026/07/07/over-430-ukrainian-drones-target-moscow-in-major-overnight-raid-a93179"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-07",
-    "time": "overnight",
-    "side": "russia",
-    "title": "Russia attacks Ukraine with 123 drones, hitting Poltava industry and Kryvyi Rih logistics site",
-    "detail": "Ukraine's Air Force said Russia attacked from the evening of July 6 with 123 Shahed-type, jet-powered, Gerbera, Italmas and Parodiia decoy drones launched from multiple Russian, occupied-Donetsk and occupied-Crimea directions. Air defenses shot down or suppressed 108 drones, while 12 strike UAVs hit 10 locations and debris fell at five more. Ukrainian authorities reported fires at an industrial enterprise in Poltava Oblast, extinguished despite repeated strikes, and a major fire at a civilian logistics-company facility in Kryvyi Rih; preliminary reports said there were no casualties at those two sites.",
-    "lat": 48.6,
-    "lng": 34.5,
-    "tid": "russia-123-drones-poltava-industrial-kryvyi-rih-logistics-fires-2026-07-07",
-    "tn": "Poltava Oblast and Kryvyi Rih, Ukraine",
-    "dmg": 65,
-    "cas": 0,
-    "dl": "OVERNIGHT UAV ATTACK — 123 drones; 12 hits at 10 locations; industrial/logistics fires, no casualties reported",
-    "dc": "dmg-heavy",
-    "sources": [
-      {
-        "name": "Ukrinform / Ukraine Air Force",
-        "url": "https://www.ukrinform.net/rubric-ato/4141545-adf-neutralizes-108-out-of-123-russian-drones-used-to-attack-ukraine-since-yesterday-evening.html"
-      },
-      {
-        "name": "Ukrinform",
-        "url": "https://www.ukrinform.net/rubric-ato/4141521-russian-uav-strikes-civilian-infrastructure-in-kryvyi-rih-sparking-massive-fire.html"
-      },
-      {
-        "name": "Ukrinform",
-        "url": "https://www.ukrinform.ua/rubric-regions/4141522-na-poltavsini-vijska-rf-atakuvali-promislove-pidpriemstvo.html"
       }
     ]
   }
