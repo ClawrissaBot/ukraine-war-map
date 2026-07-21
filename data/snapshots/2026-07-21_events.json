@@ -11252,28 +11252,20 @@
     "date": "2026-07-19",
     "time": "20:30",
     "side": "russia",
-    "title": "Russian glide bombs hit Zaporizhzhia apartment blocks, killing 3 and injuring at least 78",
-    "detail": "Russian forces launched guided glide bombs at Zaporizhzhia on the evening of July 19, hitting residential, industrial and warehouse areas. Zaporizhzhia Oblast Governor Ivan Fedorov said rescuers recovered three bodies from the rubble of a five-story apartment building, at least 78 people were injured, and 79 apartment buildings were damaged, forcing some residents into temporary shelters. Earlier reports had listed two dead and 42 injured, but local authorities raised the toll on July 20 as search-and-rescue work continued.",
+    "title": "Russian glide bombs hit Zaporizhzhia apartment blocks, killing 2 and injuring 42",
+    "detail": "Russian forces launched guided glide bombs at Zaporizhzhia on the evening of July 19, hitting a five-story and a nine-story residential building. Zaporizhzhia Oblast Governor Ivan Fedorov said two floors of the five-story block were destroyed, windows and balconies were damaged in the second building, and a logistics terminal and private-sector areas also sustained significant damage. Officials reported two people killed and 42 injured, including eight children, with some victims pulled from rubble by emergency workers.",
     "lat": 47.8388,
     "lng": 35.1396,
     "tid": "russian-glide-bombs-hit-zaporizhzhia-apartments-2026-07-19",
     "tn": "Zaporizhzhia, Ukraine",
-    "dmg": 78,
-    "dl": "GLIDE-BOMB STRIKE — apartment blocks and warehouses hit; 3 killed, 78+ injured",
+    "dmg": 74,
+    "dl": "GLIDE-BOMB STRIKE — apartment blocks hit; 2 killed, 42 injured",
     "dc": "dmg-heavy",
-    "cas": 81,
+    "cas": 44,
     "sources": [
       {
         "name": "Kyiv Independent / Zaporizhzhia authorities",
         "url": "https://kyivindependent.com/russian-attack-on-zaporizhzhia-kills-2-injures-42-including-children/"
-      },
-      {
-        "name": "Kyiv Independent / Zaporizhzhia authorities update",
-        "url": "https://kyivindependent.com/russian-attacks-kill-14-injure-at-least-162-across-ukraine-as-guided-bombs-strike-zaporizhzhia/"
-      },
-      {
-        "name": "Ukrinform / Zaporizhzhia authorities",
-        "url": "https://www.ukrinform.net/rubric-ato/4145057-three-people-killed-and-three-others-wounded-in-zaporizhzhia-due-to-russian-airstrike.html"
       }
     ]
   },
@@ -11324,140 +11316,6 @@
       {
         "name": "Reuters via Local10 / Russian officials",
         "url": "https://www.local10.com/news/world/2026/07/20/ukraine-fires-400-drones-toward-moscow-as-zelenskyy-grapples-with-protests/"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-20",
-    "time": "15:30",
-    "side": "russia",
-    "title": "Russian strike hits Odesa infrastructure facility, killing 3 and injuring 6",
-    "detail": "Russian forces struck infrastructure facilities in Odesa on the afternoon of July 20, hitting a private enterprise and triggering a large fire involving agricultural equipment. Odesa city authorities and the State Emergency Service reported three people killed and six injured, a damaged gas pipeline, and more than 80 rescue workers deployed under difficult firefighting conditions. Odesa regional officials said Russian strikes had killed 28 people in the region so far in July.",
-    "lat": 46.4825,
-    "lng": 30.7233,
-    "tid": "russian-strike-odesa-infrastructure-facility-2026-07-20",
-    "tn": "Odesa, Ukraine",
-    "dmg": 68,
-    "cas": 9,
-    "dl": "INFRASTRUCTURE STRIKE — private enterprise burns; 3 killed, 6 injured",
-    "dc": "dmg-heavy",
-    "casualtyReport": null,
-    "sources": [
-      {
-        "name": "Ukrinform / Odesa authorities and SES",
-        "url": "https://www.ukrinform.net/rubric-ato/4146222-russian-strike-on-odesa-three-people-killed-injury-toll-climbs-to-six.html"
-      },
-      {
-        "name": "The Guardian / Odesa regional officials",
-        "url": "https://www.theguardian.com/world/2026/jul/21/ukraine-war-briefing-moscow-targeted-as-wildberries-warehouse-attacks-continue"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-20",
-    "time": "18:00",
-    "side": "ukraine",
-    "title": "SBU drones hit Russian FSB coordination center in occupied Kherson Oblast",
-    "detail": "Ukraine's Security Service said Alpha special forces used 13 drones to strike a Russian FSB coordination center and base in the occupied part of Kherson Oblast on July 20. The facility was reportedly located inside a boarding house, protected by guards, checkpoints, engineering barriers and underground shelters, with preliminary reports of about 100 Russian service members and more than 70 vehicles at the site. The SBU said the hits caused a large fire and disrupted Russian command, control and logistics in the occupied south; casualties were not disclosed.",
-    "lat": 46.55,
-    "lng": 33.05,
-    "tid": "sbu-drones-hit-fsb-coordination-center-kherson-oblast-2026-07-20",
-    "tn": "Occupied Kherson Oblast, Ukraine",
-    "dmg": 72,
-    "cas": 0,
-    "dl": "COMMAND STRIKE — 13 SBU drones hit FSB base/coordination center",
-    "dc": "dmg-heavy",
-    "casualtyReport": null,
-    "sources": [
-      {
-        "name": "Kyiv Independent / SBU",
-        "url": "https://kyivindependent.com/ukrainian-drones-strike-russian-fsb-coordination-center-in-occupied-kherson-oblast-sbu-says/"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-20",
-    "time": "19:45",
-    "side": "ukraine",
-    "title": "Ukrainian regiment says it captured 64 Russian soldiers in Zaporizhzhia clearing operation",
-    "detail": "Ukraine's 225th Separate Assault Regiment said it cleared infiltrating Russian groups from the areas of Ternuvate, Kosivtseve, Rizdvianka, Verkhnia Tersa and Vozdvyzhivka in Zaporizhzhia Oblast and captured 64 Russian soldiers. The regiment said the Russian groups had been tasked with slipping behind Ukrainian positions to find UAV crews, gather intelligence and raise Russian flags for propaganda footage rather than hold the villages. The prisoners were added to Ukraine's exchange pool; Kyiv Independent and Ukrinform noted the exact capture timing and footage authenticity could not be independently verified.",
-    "lat": 47.62,
-    "lng": 36.27,
-    "tid": "ukrainian-regiment-captures-64-russian-soldiers-zaporizhzhia-2026-07-20",
-    "tn": "Ternuvate-Kosivtseve-Rizdvianka area, Zaporizhzhia Oblast, Ukraine",
-    "dmg": 50,
-    "cas": 64,
-    "dl": "CLEARING OPERATION — 64 Russian troops captured near Huliaipole axis",
-    "dc": "dmg-moderate",
-    "casualtyReport": null,
-    "sources": [
-      {
-        "name": "Kyiv Independent / 225th Separate Assault Regiment",
-        "url": "https://kyivindependent.com/ukraines-225th-assault-regiment-claim-it-captured-64-russian-soldiers-prisoner/"
-      },
-      {
-        "name": "Ukrinform / 225th Separate Assault Regiment",
-        "url": "https://www.ukrinform.net/rubric-ato/4146162-ukrainian-troops-capture-64-invaders-in-zaporizhzhia-sector.html"
-      },
-      {
-        "name": "ISW Russian Offensive Campaign Assessment, July 20",
-        "url": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-july-20-2026/"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-20",
-    "time": "20:30",
-    "side": "ukraine",
-    "title": "Ukrainian drones hit seven Russian shadow-fleet vessels, Crimea energy hubs and air defenses",
-    "detail": "Ukraine's Unmanned Systems Forces commander Robert Brovdi said Ukrainian drones struck seven Russian shadow-fleet vessels overnight on July 20, including three tankers and four dry-cargo ships in the Black and Azov seas, under the MoLoCHKa campaign. He also reported strikes on seven energy hubs and substations in occupied Crimea around Yalta, Morske, Pryvitne and Luchyste, and the destruction of six Russian air-defense assets in Yeysk, Primorsko-Akhtarsk and Kamyshevatskaya, including a Tor-M2 system and Nebo, Kasta and Gamma radars. Brovdi said the campaigns had hit 183 vessels and 103 energy facilities since the start of July; the claims were not independently verified.",
-    "lat": 45.3569,
-    "lng": 36.475,
-    "tid": "usf-seven-shadow-fleet-vessels-crimea-energy-air-defense-strikes-2026-07-20",
-    "tn": "Black Sea, Azov Sea, occupied Crimea and Krasnodar Krai",
-    "dmg": 84,
-    "cas": 0,
-    "dl": "CAMPAIGN STRIKE — 7 vessels, 7 energy hubs and 6 air-defense assets hit",
-    "dc": "dmg-severe",
-    "casualtyReport": null,
-    "sources": [
-      {
-        "name": "Kyiv Independent / Robert Brovdi",
-        "url": "https://kyivindependent.com/ukraine-says-drones-struck-7-russian-shadow-fleet-vessels-crimean-power-facilities-overnight/"
-      },
-      {
-        "name": "Kyiv Independent war latest / Zelensky and Brovdi",
-        "url": "https://kyivindependent.com/ukraine-war-latest-july-20-2026/"
-      },
-      {
-        "name": "ISW Russian Offensive Campaign Assessment, July 20",
-        "url": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-july-20-2026/"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-21",
-    "time": "08:00",
-    "side": "russia",
-    "title": "Russia attacks Ukraine with 58 drones overnight; 46 shot down or jammed",
-    "detail": "Ukraine's Air Force reported that Russia attacked from 18:00 on July 20 through the morning of July 21 with 58 Shahed, Gerbera and Italmas attack drones, Banderol loitering munitions and Parodiya decoys launched from Kursk, Oryol, occupied Donetsk and Hvardiiske in occupied Crimea. Ukrainian aircraft, anti-aircraft missile units, electronic-warfare teams, unmanned-systems units and mobile fire groups shot down or suppressed 46 drones across northern, southern and eastern Ukraine. Eight attack UAVs hit seven locations, and the Air Force said several drones remained airborne at the 08:00 update.",
-    "lat": 49.0,
-    "lng": 32.0,
-    "tid": "russia-58-drones-ukraine-46-intercepted-2026-07-21",
-    "tn": "Multiple regions, Ukraine",
-    "dmg": 48,
-    "cas": 0,
-    "dl": "OVERNIGHT DRONE ATTACK — 58 UAVs launched; 46 shot down or jammed",
-    "dc": "dmg-moderate",
-    "casualtyReport": null,
-    "sources": [
-      {
-        "name": "Ukrainska Pravda / Ukrainian Air Force",
-        "url": "https://www.pravda.com.ua/eng/news/2026/07/21/8045077/"
-      },
-      {
-        "name": "Censor.NET / Air Force Command",
-        "url": "https://censor.net/en/news/4014552/russian-attack-on-july-21-air-defense-shot-down-46-out-of-58-drones-were-any-hits-recorded"
       }
     ]
   }
