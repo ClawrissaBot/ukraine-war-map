@@ -11740,5 +11740,49 @@
         "url": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-july-24-2026/"
       }
     ]
+  },
+  {
+    "date": "2026-07-25",
+    "time": "06:00",
+    "side": "russia",
+    "title": "Russian drone strike kills three Nova Poshta drivers in Sumy Oblast",
+    "detail": "A Russian drone struck a civilian facility in northeastern Sumy Oblast on July 25, igniting a large fire and killing three drivers employed by the private Ukrainian postal and courier company Nova Poshta, regional head Oleh Hryhorov said. The attack followed further Russian strikes overnight, including a drone hit on a shopping center in Zaporizhzhia that caused a 500-square-meter fire and injured several people. President Volodymyr Zelenskyy said Ukrainian and partner intelligence indicated Russia had prepared missiles for another large attack that could occur within 48 hours.",
+    "lat": 50.9077,
+    "lng": 34.7981,
+    "tid": "russia-drone-strike-sumy-nova-poshta-drivers-2026-07-25",
+    "tn": "Sumy Oblast, Ukraine",
+    "dmg": 65,
+    "cas": 3,
+    "dl": "DRONE STRIKE — civilian facility burned; 3 Nova Poshta drivers killed",
+    "dc": "dmg-heavy",
+    "casualtyReport": "Three people killed in Sumy Oblast; several injured in a separate Zaporizhzhia shopping-center strike",
+    "sources": [
+      {
+        "name": "Associated Press / Sumy regional authorities",
+        "url": "https://apnews.com/article/russia-ukraine-drone-romania-zelenskyy-6c4dfdb04df911d135675b24ec2e6a7a"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-25",
+    "time": "07:00",
+    "side": "other",
+    "title": "Romanian F-16 downs drone after second airspace breach in two days",
+    "detail": "Romania’s Defense Ministry said an F-16 safely shot down a drone that breached Romanian airspace near the Ukrainian border on July 25, with debris falling in an unpopulated area. President Nicușor Dan confirmed that a Romanian pilot carried out the interception. It was Romania’s second drone shootdown in two days, following an interception near Padina northeast of Bucharest on July 24, highlighting the continuing spillover of Russia’s war into NATO airspace.",
+    "lat": 45.9432,
+    "lng": 28.8563,
+    "tid": "romania-f16-drone-airspace-breach-second-interception-2026-07-25",
+    "tn": "Romania near the Ukrainian border",
+    "dmg": 0,
+    "cas": 0,
+    "dl": "NATO AIRSPACE — Romanian F-16 downs intruding drone; second interception in 2 days",
+    "dc": "dmg-none",
+    "casualtyReport": "No casualties reported; drone was downed over an unpopulated area",
+    "sources": [
+      {
+        "name": "Associated Press / Romanian Defense Ministry",
+        "url": "https://apnews.com/article/russia-ukraine-drone-romania-zelenskyy-6c4dfdb04df911d135675b24ec2e6a7a"
+      }
+    ]
   }
 ]
