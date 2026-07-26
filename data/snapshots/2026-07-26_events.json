@@ -11784,57 +11784,5 @@
         "url": "https://apnews.com/article/russia-ukraine-drone-romania-zelenskyy-6c4dfdb04df911d135675b24ec2e6a7a"
       }
     ]
-  },
-  {
-    "date": "2026-07-25",
-    "time": "08:00",
-    "side": "ukraine",
-    "title": "Strike on occupied Zaporizhzhia resorts reportedly kills 12",
-    "detail": "Russian-installed officials said an overnight Ukrainian attack hit resort areas around Kyrylivka on the Sea of Azov in Russian-occupied Zaporizhzhia Oblast, killing 12 people, including four children, and wounding 19. Ukraine had not commented on the allegation when Associated Press and Reuters reported it, and the claims could not be independently verified. Russian-appointed regional head Yevgeny Balitsky accused Kyiv of deliberately targeting civilians; both governments deny intentionally attacking civilians.",
-    "lat": 46.3753,
-    "lng": 35.3678,
-    "tid": "ukraine-kyrylivka-resort-strike-occupied-zaporizhzhia-2026-07-25",
-    "tn": "Kyrylivka, Russian-occupied Zaporizhzhia Oblast, Ukraine",
-    "dmg": 72,
-    "cas": 31,
-    "dl": "DISPUTED RESORT STRIKE — occupation officials report 12 killed and 19 wounded",
-    "dc": "dmg-heavy",
-    "casualtyReport": "Russian-installed officials reported 12 killed, including four children, and 19 wounded; Ukraine had not commented",
-    "sources": [
-      {
-        "name": "Associated Press",
-        "url": "https://apnews.com/article/russia-ukraine-drone-romania-zelenskyy-6c4dfdb04df911d135675b24ec2e6a7a"
-      },
-      {
-        "name": "Reuters via Internazionale",
-        "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/07/25/russia-says-ukraine-killed-11-in-tourist-camp-ukraine-strikes-russian-refinery"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-25",
-    "time": "12:00",
-    "side": "ukraine",
-    "title": "Ukraine hits Siberian refinery, Caspian oil platform and Russia-Iran cargo ships",
-    "detail": "Ukraine said its long-range drones struck the Tyumen oil refinery in western Siberia, more than 2,000 kilometers from Ukrainian-held territory, and Lukoil's Filanovsky platform in Russia's largest Caspian oil field. Tyumen authorities confirmed a drone caused a fire at the refinery but did not report whether production was disrupted. The SBU also said drones attacked the Port Olya 2 and Begey cargo vessels, which Kyiv believes carried military supplies between Russia and Iran. President Volodymyr Zelenskyy separately confirmed strikes on a logistics facility in Yekaterinburg and a fuel warehouse in Rostov-on-Don.",
-    "lat": 57.1522,
-    "lng": 65.5272,
-    "tid": "ukraine-tyumen-filanovsky-caspian-ships-deep-strikes-2026-07-25",
-    "tn": "Tyumen, Caspian Sea, Yekaterinburg and Rostov-on-Don, Russia",
-    "dmg": 78,
-    "cas": 0,
-    "dl": "LONG-RANGE STRIKES — Siberian refinery, Caspian platform and military-linked ships targeted",
-    "dc": "dmg-heavy",
-    "casualtyReport": "No casualties reported; Tyumen authorities confirmed a refinery fire",
-    "sources": [
-      {
-        "name": "Reuters via Internazionale",
-        "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/07/25/russia-says-ukraine-killed-11-in-tourist-camp-ukraine-strikes-russian-refinery"
-      },
-      {
-        "name": "Associated Press",
-        "url": "https://apnews.com/article/russia-ukraine-drone-romania-zelenskyy-6c4dfdb04df911d135675b24ec2e6a7a"
-      }
-    ]
   }
 ]
