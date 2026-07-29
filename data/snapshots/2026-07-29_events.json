@@ -12030,48 +12030,5 @@
         "url": "https://www.pravda.com.ua/eng/news/2026/07/27/8046020/"
       }
     ]
-  },
-  {
-    "date": "2026-07-28",
-    "time": "14:27",
-    "side": "russia",
-    "title": "Russia reports strikes on Ukrainian ships and Mykolaiv port",
-    "detail": "Russia's Defence Ministry said loitering munitions and attack drones struck a vessel in Mykolaiv port, a bulk carrier carrying military cargo about 11 km east of Odesa, and port infrastructure and fuel tanks in Mykolaiv. Reuters could not independently verify the claims. The reported attacks came amid intensified Russian and Ukrainian strikes on commercial and military-linked shipping in the Black Sea and Sea of Azov.",
-    "lat": 46.975,
-    "lng": 31.9946,
-    "tid": "russia-ships-mykolaiv-port-black-sea-strikes-2026-07-28",
-    "tn": "Mykolaiv port and Black Sea waters east of Odesa, Ukraine",
-    "dmg": 70,
-    "cas": 0,
-    "dl": "MARITIME STRIKES — Russia claims two vessels, port facilities and fuel tanks hit",
-    "dc": "dmg-heavy",
-    "casualtyReport": "No casualties reported; Russian damage claims were not independently verified",
-    "sources": [
-      {
-        "name": "Reuters via MarketScreener",
-        "url": "https://ca.marketscreener.com/news/russia-says-it-struck-at-least-two-ukrainian-ships-in-the-black-sea-and-hit-the-port-of-mykolaiv-ce7f51ddde8ef227"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-28",
-    "time": "18:00",
-    "side": "other",
-    "title": "Trump and Zelenskyy discuss Patriot production as Senate advances Russia sanctions",
-    "detail": "Presidents Donald Trump and Volodymyr Zelenskyy met at the White House and discussed licenses for Ukraine to produce Patriot interceptors, other defense-production cooperation and efforts to revive diplomacy. Zelenskyy also met U.S. senators and urged near-term deliveries of Patriot missiles while domestic production develops. The Senate then voted 86–12 to advance legislation targeting major buyers of Russian oil and gas and sanctioning senior Russian officials, financial institutions and energy projects.",
-    "lat": 38.8977,
-    "lng": -77.0365,
-    "tid": "trump-zelenskyy-patriot-production-senate-russia-sanctions-2026-07-28",
-    "tn": "Washington, D.C., United States",
-    "dmg": 0,
-    "cas": 0,
-    "dl": "DIPLOMACY & AID — Patriot production discussed; Senate advances energy sanctions 86–12",
-    "dc": "dmg-none",
-    "sources": [
-      {
-        "name": "Associated Press",
-        "url": "https://apnews.com/article/trump-zelenskyy-ukraine-laura-loomer-graham-funeral-fc0dc04777dc7a1d2a3fd88502e8365b"
-      }
-    ]
   }
 ]
