@@ -12073,49 +12073,5 @@
         "url": "https://apnews.com/article/trump-zelenskyy-ukraine-laura-loomer-graham-funeral-fc0dc04777dc7a1d2a3fd88502e8365b"
       }
     ]
-  },
-  {
-    "date": "2026-07-29",
-    "time": "04:00",
-    "side": "ukraine",
-    "title": "Ukraine strikes major oil refineries in Perm and Ryazan",
-    "detail": "Ukraine’s Security Service and General Staff said overnight long-range attacks started fires at Lukoil’s refinery in Perm, more than 1,500 km from Ukraine, and at the Ryazan refinery. Ukraine said the facilities have a combined annual production capacity of about 220 million barrels and support Russia’s military and state revenue. Ryazan’s governor said six people were hospitalized after the drone attack and debris ignited fires at industrial sites; the Ukrainian claims were not independently verified.",
-    "lat": 54.6296,
-    "lng": 39.7419,
-    "tid": "ukraine-perm-ryazan-oil-refinery-strikes-2026-07-29",
-    "tn": "Perm and Ryazan, Russia",
-    "dmg": 84,
-    "cas": 6,
-    "dl": "DEEP STRIKES — fires reported at two major Russian oil refineries",
-    "dc": "dmg-severe",
-    "casualtyReport": "Six people hospitalized in Ryazan; no casualties reported in Perm",
-    "sources": [
-      {
-        "name": "Associated Press",
-        "url": "https://apnews.com/article/russia-ukraine-war-oil-refinery-trump-zelenskyy-4275c2280107aedba37df8704f226ce6"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-30",
-    "time": "04:45",
-    "side": "russia",
-    "title": "Russian strikes kill seven and wound dozens across Ukraine",
-    "detail": "Russian missile, drone and other attacks overnight killed six people in Dnipropetrovsk Oblast, including three children in the Kryvyi Rih area, and killed a 31-year-old man in Kyiv. A cruise-missile strike on Lviv wounded at least 30 people and damaged more than 20 residential buildings, a school and two kindergartens. Two people were wounded in Kyiv and five more, including a minor, in the Brovary district of Kyiv Oblast.",
-    "lat": 48.4647,
-    "lng": 35.0462,
-    "tid": "russia-mass-strikes-dnipropetrovsk-lviv-kyiv-2026-07-30",
-    "tn": "Dnipropetrovsk, Lviv and Kyiv regions, Ukraine",
-    "dmg": 86,
-    "cas": 44,
-    "dl": "MASS STRIKES — 7 killed and at least 37 wounded across Ukraine",
-    "dc": "dmg-severe",
-    "casualtyReport": "At least seven killed and 37 wounded, including children",
-    "sources": [
-      {
-        "name": "Associated Press",
-        "url": "https://apnews.com/article/russia-ukraine-war-zelenskyy-missile-attack-63ab11e0ebe6a9aefdb547fe442bef3f"
-      }
-    ]
   }
 ]
