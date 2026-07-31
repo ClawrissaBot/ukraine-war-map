@@ -12100,61 +12100,17 @@
     "date": "2026-07-30",
     "time": "04:45",
     "side": "russia",
-    "title": "Russian strikes kill 10 and wound more than 50 across Ukraine",
-    "detail": "Russia launched more than 70 missiles and over 280 attack drones overnight, killing at least 10 civilians and injuring more than 50 across at least 10 Ukrainian regions. Six people, including three children, were killed in Dnipropetrovsk Oblast; one person was killed in Kyiv, one in Lviv, one in Poltava Oblast and one in Kherson. The barrage damaged homes, businesses and infrastructure, while more than 56,000 people sheltered in Kyiv metro stations.",
+    "title": "Russian strikes kill seven and wound dozens across Ukraine",
+    "detail": "Russian missile, drone and other attacks overnight killed six people in Dnipropetrovsk Oblast, including three children in the Kryvyi Rih area, and killed a 31-year-old man in Kyiv. A cruise-missile strike on Lviv wounded at least 30 people and damaged more than 20 residential buildings, a school and two kindergartens. Two people were wounded in Kyiv and five more, including a minor, in the Brovary district of Kyiv Oblast.",
     "lat": 48.4647,
     "lng": 35.0462,
     "tid": "russia-mass-strikes-dnipropetrovsk-lviv-kyiv-2026-07-30",
     "tn": "Dnipropetrovsk, Lviv and Kyiv regions, Ukraine",
     "dmg": 86,
-    "cas": 61,
-    "dl": "MASS STRIKES — at least 10 killed and more than 50 wounded across Ukraine",
+    "cas": 44,
+    "dl": "MASS STRIKES — 7 killed and at least 37 wounded across Ukraine",
     "dc": "dmg-severe",
-    "casualtyReport": "At least 10 killed and more than 50 wounded, including children",
-    "sources": [
-      {
-        "name": "Associated Press",
-        "url": "https://apnews.com/article/russia-ukraine-war-zelenskyy-missile-attack-63ab11e0ebe6a9aefdb547fe442bef3f"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-30",
-    "time": "03:30",
-    "side": "russia",
-    "title": "Russian Kh-101 missile crosses into Poland and NATO scrambles aircraft",
-    "detail": "A Russian Kh-101 cruise missile crossed Ukraine’s western border into NATO member Poland during the overnight barrage and crashed in a farming area in Lublin province. NATO forces scrambled two fighter jets, an attack helicopter and two other aircraft and activated ground defenses. No injuries or damage were reported, and Polish Prime Minister Donald Tusk said there was no reason to believe Poland was deliberately targeted.",
-    "lat": 51.2465,
-    "lng": 22.5684,
-    "tid": "russian-kh101-missile-crosses-poland-nato-scramble-2026-07-30",
-    "tn": "Lublin province, Poland",
-    "dmg": 5,
-    "cas": 0,
-    "dl": "NATO AIRSPACE — Russian cruise missile crashes in Poland; alliance aircraft scrambled",
-    "dc": "dmg-light",
-    "casualtyReport": "No injuries or property damage reported",
-    "sources": [
-      {
-        "name": "Associated Press",
-        "url": "https://apnews.com/article/russia-ukraine-war-zelenskyy-missile-attack-63ab11e0ebe6a9aefdb547fe442bef3f"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-30",
-    "time": "04:00",
-    "side": "ukraine",
-    "title": "Ukrainian mass drone attack hits Russian logistics depots and four shadow-fleet vessels",
-    "detail": "Russia said its air defenses downed 258 Ukrainian drones overnight as strikes set Wildberries logistics depots ablaze in Penza, Sarapul and reportedly Perm. Four people were injured and 200 workers evacuated in Penza. Ukraine accuses the retailer of supplying goods usable by Russia’s military. Ukraine’s drone forces also said they destroyed four more sanctions-busting shadow-fleet tankers, bringing their claimed total since July 6 to 205 vessels.",
-    "lat": 53.1959,
-    "lng": 45.0183,
-    "tid": "ukraine-mass-drone-wildberries-shadow-fleet-strikes-2026-07-30",
-    "tn": "Penza, Sarapul and Perm, Russia; Russian maritime routes",
-    "dmg": 75,
-    "cas": 4,
-    "dl": "LONG-RANGE CAMPAIGN — logistics depots burn; four more shadow-fleet vessels claimed destroyed",
-    "dc": "dmg-heavy",
-    "casualtyReport": "Four injured and 200 workers evacuated at the Penza depot; no other casualties reported",
+    "casualtyReport": "At least seven killed and 37 wounded, including children",
     "sources": [
       {
         "name": "Associated Press",
