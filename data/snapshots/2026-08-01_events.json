@@ -12161,52 +12161,5 @@
         "url": "https://apnews.com/article/russia-ukraine-war-zelenskyy-missile-attack-63ab11e0ebe6a9aefdb547fe442bef3f"
       }
     ]
-  },
-  {
-    "date": "2026-07-31",
-    "time": "12:00",
-    "side": "other",
-    "title": "Trump backs away from commitment to license Patriot production in Ukraine",
-    "detail": "U.S. President Donald Trump said his administration had not agreed to grant Ukraine a license to manufacture Patriot air-defense systems and that the matter remained under discussion, stepping back from a commitment he made at the July NATO summit in Ankara. The shift came as Ukraine warned of a critical shortage of Patriot interceptors amid intensified Russian ballistic-missile attacks.",
-    "lat": 39.0182,
-    "lng": -77.9389,
-    "tid": "trump-patriot-production-license-undecided-2026-07-31",
-    "tn": "Camp David, Maryland, United States",
-    "dmg": 0,
-    "cas": 0,
-    "dl": "MILITARY AID — U.S. president says Patriot-production license remains undecided",
-    "dc": "dmg-none",
-    "sources": [
-      {
-        "name": "Associated Press",
-        "url": "https://apnews.com/article/778ba3f2917298cd3b1af169d1427efc"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-01",
-    "time": "01:00",
-    "side": "russia",
-    "title": "Russian ballistic-missile and drone barrage kills at least 9 in Kyiv",
-    "detail": "Russia launched 35 missiles, including 27 ballistic missiles, and 185 drones in an overnight mass attack focused on Kyiv, Ukrainian officials said. At least nine people were killed and 30 civilians were wounded as strikes damaged residential buildings and rescue crews searched rubble. Russia said it targeted military-industrial facilities and logistics centers; Ukraine reported intercepting only one ballistic missile amid a critical shortage of Patriot interceptors.",
-    "lat": 50.4501,
-    "lng": 30.5234,
-    "tid": "russia-kyiv-ballistic-missile-drone-barrage-2026-08-01",
-    "tn": "Kyiv, Ukraine",
-    "dmg": 88,
-    "cas": 39,
-    "dl": "MASS STRIKE — at least 9 killed and 30 wounded in Kyiv",
-    "dc": "dmg-severe",
-    "casualtyReport": "At least nine killed and 30 wounded, including children",
-    "sources": [
-      {
-        "name": "Associated Press",
-        "url": "https://apnews.com/article/eb62397d10bca2d6db4269a3bcfc9dc6"
-      },
-      {
-        "name": "El País",
-        "url": "https://elpais.com/internacional/2026-08-01/un-ataque-ruso-sobre-kiev-causa-varios-muertos-y-heridos.html"
-      }
-    ]
   }
 ]
