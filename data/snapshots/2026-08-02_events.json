@@ -12208,49 +12208,5 @@
         "url": "https://elpais.com/internacional/2026-08-01/un-ataque-ruso-sobre-kiev-causa-varios-muertos-y-heridos.html"
       }
     ]
-  },
-  {
-    "date": "2026-08-01",
-    "time": "02:00",
-    "side": "ukraine",
-    "title": "Ukrainian drones strike three oil refineries in Bashkortostan",
-    "detail": "Ukrainian drones struck three Russian oil refineries overnight in the republic of Bashkortostan, nearly 1,600 km from Ukraine, President Volodymyr Zelenskyy said. The facilities process millions of tons of oil annually. Russian outlet Astra reported a refinery fire in Ufa, while local officials acknowledged smoke in an industrial zone after debris from a downed drone fell. The full extent of the damage was not independently verified.",
-    "lat": 54.7388,
-    "lng": 55.9721,
-    "tid": "ukraine-three-bashkortostan-refinery-strikes-2026-08-01",
-    "tn": "Ufa and other locations in Bashkortostan, Russia",
-    "dmg": 72,
-    "cas": 0,
-    "dl": "DEEP STRIKES — three refineries targeted nearly 1,600 km from Ukraine",
-    "dc": "dmg-heavy",
-    "casualtyReport": "No casualties reported; damage claims were not independently verified",
-    "sources": [
-      {
-        "name": "Associated Press",
-        "url": "https://apnews.com/article/russia-ukraine-war-zelenskyy-missile-attack-ballistics-eb62397d10bca2d6db4269a3bcfc9dc6"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-01",
-    "time": "03:00",
-    "side": "ukraine",
-    "title": "Ukrainian sea drones sink sanctioned Russian container ship Yanina",
-    "detail": "Two Ukrainian sea drones struck and sank the Russian-flagged container ship Yanina in the Black Sea, according to Ukrainian President Volodymyr Zelenskyy and Russia’s state nuclear corporation Rosatom. Ukraine described the sanctioned FESCO-operated vessel as supporting Russia’s war effort, while Rosatom said it carried civilian cargo including frozen food and construction materials. Rosatom said all 17 crew members survived.",
-    "lat": 43.5,
-    "lng": 35.5,
-    "tid": "ukraine-sea-drones-sink-yanina-black-sea-2026-08-01",
-    "tn": "Black Sea, approximately 130 nautical miles from Novorossiysk",
-    "dmg": 95,
-    "cas": 0,
-    "dl": "MARITIME STRIKE — sanctioned Russian container ship sunk; 17 crew survive",
-    "dc": "dmg-severe",
-    "casualtyReport": "All 17 crew members survived, according to Rosatom",
-    "sources": [
-      {
-        "name": "Associated Press",
-        "url": "https://apnews.com/article/russia-ukraine-war-zelenskyy-missile-attack-ballistics-eb62397d10bca2d6db4269a3bcfc9dc6"
-      }
-    ]
   }
 ]
