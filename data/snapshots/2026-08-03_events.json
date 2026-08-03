@@ -12252,49 +12252,5 @@
         "url": "https://apnews.com/article/russia-ukraine-war-zelenskyy-missile-attack-ballistics-eb62397d10bca2d6db4269a3bcfc9dc6"
       }
     ]
-  },
-  {
-    "date": "2026-08-02",
-    "time": "02:00",
-    "side": "ukraine",
-    "title": "Ukrainian 635-drone wave kills 5 across Russia and burns another Wildberries warehouse",
-    "detail": "Russia’s Defense Ministry said air defenses downed 635 Ukrainian drones overnight across Russia, occupied Crimea and the Black and Azov seas, without stating how many were launched or reached their targets. Russian regional officials said at least five people were killed, including two when a drone struck a residential building in Engels, Saratov Oblast. Another drone ignited a fire at a Wildberries logistics warehouse in Novosemeykino, Samara Oblast, continuing Ukraine’s campaign against the retailer, which Kyiv accuses of supporting Russia’s war effort.",
-    "lat": 51.4855,
-    "lng": 46.1268,
-    "tid": "ukraine-635-drone-russia-wildberries-engels-strikes-2026-08-02",
-    "tn": "Engels, Saratov Oblast; Novosemeykino, Samara Oblast; other locations in Russia",
-    "dmg": 76,
-    "cas": 5,
-    "dl": "MASS DRONE ATTACK — five killed across Russia; another Wildberries logistics hub burns",
-    "dc": "dmg-heavy",
-    "casualtyReport": "At least five killed across Russia, including two in Engels; no casualties reported at the Samara warehouse",
-    "sources": [
-      {
-        "name": "Associated Press",
-        "url": "https://apnews.com/article/d2c705445dad07fced4fb8c1e3d314c5"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-02",
-    "time": "03:00",
-    "side": "russia",
-    "title": "Russian attacks kill 2 in Zaporizhzhia and Kharkiv after 133-drone barrage",
-    "detail": "Russia attacked Ukraine overnight with 133 drones, 24 of which struck targets, according to Ukraine’s air force. Later attacks killed at least two people: a guided aerial bomb hit a residential building in Zaporizhzhia, killing one person, and a separate Russian strike killed another person in Kharkiv, local officials said.",
-    "lat": 47.8388,
-    "lng": 35.1396,
-    "tid": "russia-133-drone-barrage-zaporizhzhia-kharkiv-deaths-2026-08-02",
-    "tn": "Zaporizhzhia and Kharkiv, Ukraine",
-    "dmg": 62,
-    "cas": 2,
-    "dl": "AIR ATTACKS — at least two killed after overnight 133-drone barrage",
-    "dc": "dmg-heavy",
-    "casualtyReport": "At least two killed, one in Zaporizhzhia and one in Kharkiv",
-    "sources": [
-      {
-        "name": "Associated Press",
-        "url": "https://apnews.com/article/d2c705445dad07fced4fb8c1e3d314c5"
-      }
-    ]
   }
 ]
