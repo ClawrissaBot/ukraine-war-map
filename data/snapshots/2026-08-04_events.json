@@ -12296,49 +12296,5 @@
         "url": "https://apnews.com/article/d2c705445dad07fced4fb8c1e3d314c5"
       }
     ]
-  },
-  {
-    "date": "2026-08-02",
-    "time": "18:30",
-    "side": "russia",
-    "title": "Eight Russian glide bombs hit residential districts across Zaporizhzhia",
-    "detail": "Russian aircraft dropped eight powerful glide bombs over 90 minutes on residential districts in four parts of Zaporizhzhia, regional chief Ivan Fedorov said. The attack killed a 71-year-old woman and wounded 31 people, including a 16-year-old girl, while damaging 22 apartment buildings. The reported casualties and damage were not independently verified.",
-    "lat": 47.8388,
-    "lng": 35.1396,
-    "tid": "russia-eight-glide-bombs-zaporizhzhia-residential-2026-08-02",
-    "tn": "Zaporizhzhia, Ukraine",
-    "dmg": 78,
-    "cas": 32,
-    "dl": "GLIDE-BOMB ATTACK — one killed, 31 wounded and 22 apartment buildings damaged",
-    "dc": "dmg-heavy",
-    "casualtyReport": "One killed and 31 wounded, including a 16-year-old girl, according to regional officials",
-    "sources": [
-      {
-        "name": "Associated Press",
-        "url": "https://apnews.com/article/9e4000f63b54cf814704ff60373f2bb9"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-03",
-    "time": "02:00",
-    "side": "ukraine",
-    "title": "Ukrainian drone attacks kill 9 in Krasnodar region and occupied Crimea",
-    "detail": "Russian-installed officials said Ukrainian drone attacks and falling debris killed six people and wounded 40 in Arkhipo-Osipovka on Russia’s Black Sea coast, while three more people were killed and two wounded in occupied Crimea. Officials provided no details on the Crimean strikes, and neither side’s claims were independently verified.",
-    "lat": 44.3611,
-    "lng": 38.5297,
-    "tid": "ukraine-drones-arkhipo-osipovka-crimea-casualties-2026-08-03",
-    "tn": "Arkhipo-Osipovka, Krasnodar Krai, Russia; occupied Crimea",
-    "dmg": 54,
-    "cas": 51,
-    "dl": "DRONE ATTACKS — Russian officials report nine killed and 42 wounded",
-    "dc": "dmg-moderate",
-    "casualtyReport": "Nine killed and 42 wounded according to Russian and occupation officials; claims not independently verified",
-    "sources": [
-      {
-        "name": "Associated Press",
-        "url": "https://apnews.com/article/9e4000f63b54cf814704ff60373f2bb9"
-      }
-    ]
   }
 ]
