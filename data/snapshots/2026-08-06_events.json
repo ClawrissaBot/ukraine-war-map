@@ -12406,27 +12406,5 @@
         "url": "https://apnews.com/article/64f8e53f9650d4104bb7375361abd990"
       }
     ]
-  },
-  {
-    "date": "2026-08-05",
-    "time": "18:05",
-    "side": "report",
-    "title": "Ukraine says air-defense missile deliveries fell to one-third of 2025 level",
-    "detail": "President Volodymyr Zelenskyy said Ukraine received only one-third as many air-defense missiles in the first half of 2026 as during the same period in 2025. The Associated Press reported that Patriot is the only system in Ukrainian service able to intercept Russia's Iskander-M, S-400 and Zircon missiles, while interceptor shortages have worsened as the U.S.-Israeli war with Iran draws on Patriot and THAAD stocks. Ukraine and nine European countries are also pursuing the lower-cost Freya anti-ballistic system, but it remains under development.",
-    "lat": 50.4501,
-    "lng": 30.5234,
-    "tid": "ukraine-air-defense-interceptor-deliveries-third-2026-08-05",
-    "tn": "Kyiv, Ukraine",
-    "dmg": 0,
-    "cas": 0,
-    "dl": "AIR-DEFENSE SHORTAGE — first-half missile deliveries reportedly fall to one-third of 2025 level",
-    "dc": "dmg-light",
-    "casualtyReport": "No casualties; military-capability development following the August 5 Kyiv barrage",
-    "sources": [
-      {
-        "name": "Associated Press",
-        "url": "https://apnews.com/article/russia-ukraine-war-ballistic-interceptors-patriot-shortage-a633c337971e99d6f4496d2754b5aa5c"
-      }
-    ]
   }
 ]
