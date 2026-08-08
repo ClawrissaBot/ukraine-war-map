@@ -12494,49 +12494,5 @@
         "url": "https://apnews.com/article/6101ca4702e1f66e8cb8a15819cd5931"
       }
     ]
-  },
-  {
-    "date": "2026-08-08",
-    "time": "01:00",
-    "side": "russia",
-    "title": "Russian missile and drone attacks kill 4 in Kyiv region",
-    "detail": "Russian attacks on Kyiv and the surrounding region killed four people, including a 3-year-old boy, according to Ukrainian officials. Multiple drones destroyed a family home in Brovary district, killing the child and his grandparents and hospitalizing four others. In Kyiv, President Volodymyr Zelenskyy said another person was killed in a strike involving six ballistic missiles against civilian infrastructure. Ukraine's air force said Russia also launched 151 drones, of which 135 were downed or intercepted, plus other guided missiles.",
-    "lat": 50.5111,
-    "lng": 30.79,
-    "tid": "russia-missile-drone-attacks-kyiv-brovary-2026-08-08",
-    "tn": "Kyiv and Brovary district, Kyiv Oblast, Ukraine",
-    "dmg": 78,
-    "cas": 8,
-    "dl": "MISSILE/DRONE ATTACK — four killed and four hospitalized in Kyiv region",
-    "dc": "dmg-heavy",
-    "casualtyReport": "Four killed, including a 3-year-old child, and four hospitalized, according to Ukrainian officials",
-    "sources": [
-      {
-        "name": "Associated Press",
-        "url": "https://apnews.com/article/492d334e26b5485dbf74d7ae9c9d33ce"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-08",
-    "time": "02:00",
-    "side": "ukraine",
-    "title": "Ukrainian drone debris ignites Ilsky oil refinery, wounding 5",
-    "detail": "A fire broke out at the Ilsky Oil Refinery in Russia's southern Krasnodar region after debris from a falling Ukrainian drone struck the facility, local officials said. Five people were wounded. The strike continued Ukraine's sustained campaign against Russian oil infrastructure, which the Associated Press reported has contributed to fuel shortages in Russia.",
-    "lat": 44.8444,
-    "lng": 38.5675,
-    "tid": "ukraine-drone-ilsky-oil-refinery-fire-2026-08-08",
-    "tn": "Ilsky Oil Refinery, Krasnodar Krai, Russia",
-    "dmg": 64,
-    "cas": 5,
-    "dl": "REFINERY STRIKE — drone debris starts fire and wounds five",
-    "dc": "dmg-heavy",
-    "casualtyReport": "Five wounded, according to local Russian officials",
-    "sources": [
-      {
-        "name": "Associated Press",
-        "url": "https://apnews.com/article/492d334e26b5485dbf74d7ae9c9d33ce"
-      }
-    ]
   }
 ]
