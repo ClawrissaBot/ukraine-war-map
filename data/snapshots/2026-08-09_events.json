@@ -12538,49 +12538,5 @@
         "url": "https://apnews.com/article/492d334e26b5485dbf74d7ae9c9d33ce"
       }
     ]
-  },
-  {
-    "date": "2026-08-08",
-    "time": "03:00",
-    "side": "ukraine",
-    "title": "Ukraine confirms strike on Syzran oil refinery over 800 km inside Russia",
-    "detail": "Ukraine’s General Staff said Ukrainian forces struck the Syzran Oil Refinery in Russia’s Samara region, more than 800 kilometers inside Russia. Samara Governor Vyacheslav Fedorishchev acknowledged that drones hit an industrial enterprise but did not identify the refinery. The attack was part of Ukraine’s sustained deep-strike campaign against Russian oil infrastructure amid reported fuel shortages.",
-    "lat": 53.1037,
-    "lng": 48.4606,
-    "tid": "ukraine-syzran-oil-refinery-strike-2026-08-08",
-    "tn": "Syzran Oil Refinery, Samara Oblast, Russia",
-    "dmg": 67,
-    "cas": 0,
-    "dl": "DEEP STRIKE — Ukraine confirms hit on refinery more than 800 km inside Russia",
-    "dc": "dmg-heavy",
-    "casualtyReport": "No casualties reported in the initial accounts",
-    "sources": [
-      {
-        "name": "Associated Press",
-        "url": "https://apnews.com/article/russia-ukraine-war-missiles-patriot-zelenskyy-492d334e26b5485dbf74d7ae9c9d33ce"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-08",
-    "time": "12:00",
-    "side": "ukraine",
-    "title": "Zelenskyy makes first official Serbia visit as Belgrade reaffirms territorial integrity",
-    "detail": "Ukrainian President Volodymyr Zelenskyy made his first official visit to Serbia, a country that has maintained close relations with Moscow and declined to sanction Russia. Serbian President Aleksandar Vucic called Ukraine a friendly nation, reaffirmed that Serbia respects Ukraine’s territorial integrity, and discussed EU accession, bilateral ties and expanded cooperation with Zelenskyy. It was the first visit by a Ukrainian president to Serbia in eight years.",
-    "lat": 44.7866,
-    "lng": 20.4489,
-    "tid": "ukraine-zelenskyy-serbia-vucic-visit-2026-08-08",
-    "tn": "Belgrade, Serbia",
-    "dmg": 15,
-    "cas": 0,
-    "dl": "DIPLOMACY — Serbia reaffirms Ukraine’s territorial integrity during landmark visit",
-    "dc": "dmg-light",
-    "casualtyReport": "No casualties — diplomatic development",
-    "sources": [
-      {
-        "name": "Associated Press",
-        "url": "https://apnews.com/article/russia-ukraine-war-missiles-patriot-zelenskyy-492d334e26b5485dbf74d7ae9c9d33ce"
-      }
-    ]
   }
 ]
