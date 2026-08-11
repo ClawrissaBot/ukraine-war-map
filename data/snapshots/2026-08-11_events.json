@@ -12670,27 +12670,5 @@
         "url": "https://apnews.com/article/d0e7dc74936cf153e8e473444cc09366"
       }
     ]
-  },
-  {
-    "date": "2026-08-11",
-    "time": "01:00",
-    "side": "russia",
-    "title": "North Korean-supplied Russian ballistic missiles hit Zaporizhzhia, killing 6 and wounding 19",
-    "detail": "Russia struck Zaporizhzhia overnight with ballistic missiles that Ukrainian President Volodymyr Zelenskyy said were supplied by North Korea. Local officials reported six people killed and 19 wounded. The strike was part of a wider wave of Russian missile, drone and glide-bomb attacks that killed at least nine civilians across Ukraine, according to Ukrainian officials.",
-    "lat": 47.8388,
-    "lng": 35.1396,
-    "tid": "russia-north-korean-ballistic-missile-zaporizhzhia-2026-08-11",
-    "tn": "Zaporizhzhia, Ukraine",
-    "dmg": 78,
-    "cas": 25,
-    "dl": "NORTH KOREAN BALLISTIC MISSILES — six killed and 19 wounded in Zaporizhzhia",
-    "dc": "dmg-heavy",
-    "casualtyReport": "Six killed and 19 wounded, according to local Ukrainian officials",
-    "sources": [
-      {
-        "name": "Associated Press",
-        "url": "https://apnews.com/article/7aff38d17dd195e63b7c55fc5a008c22"
-      }
-    ]
   }
 ]
