@@ -12675,61 +12675,17 @@
     "date": "2026-08-11",
     "time": "01:00",
     "side": "russia",
-    "title": "North Korean-supplied Russian ballistic missiles hit Zaporizhzhia, killing 7 and wounding 21",
-    "detail": "Russia struck Zaporizhzhia overnight with ballistic missiles that Ukrainian President Volodymyr Zelenskyy said were supplied by North Korea. Metinvest said seven workers at its steel plant were killed and 21 injured as they tried to reach shelters. The attack damaged a blast furnace and other equipment and forced the plant to shut down.",
+    "title": "North Korean-supplied Russian ballistic missiles hit Zaporizhzhia, killing 6 and wounding 19",
+    "detail": "Russia struck Zaporizhzhia overnight with ballistic missiles that Ukrainian President Volodymyr Zelenskyy said were supplied by North Korea. Local officials reported six people killed and 19 wounded. The strike was part of a wider wave of Russian missile, drone and glide-bomb attacks that killed at least nine civilians across Ukraine, according to Ukrainian officials.",
     "lat": 47.8388,
     "lng": 35.1396,
     "tid": "russia-north-korean-ballistic-missile-zaporizhzhia-2026-08-11",
     "tn": "Zaporizhzhia, Ukraine",
     "dmg": 78,
-    "cas": 28,
-    "dl": "NORTH KOREAN BALLISTIC MISSILES — seven steelworkers killed and 21 wounded",
+    "cas": 25,
+    "dl": "NORTH KOREAN BALLISTIC MISSILES — six killed and 19 wounded in Zaporizhzhia",
     "dc": "dmg-heavy",
-    "casualtyReport": "Seven killed and 21 injured at a Metinvest steel plant, according to the company",
-    "sources": [
-      {
-        "name": "Associated Press",
-        "url": "https://apnews.com/article/7aff38d17dd195e63b7c55fc5a008c22"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-11",
-    "time": "02:00",
-    "side": "russia",
-    "title": "Russian drones and artillery kill 3 in Dnipropetrovsk Oblast",
-    "detail": "Russian drone and artillery attacks killed three civilians, including a 15-year-old boy, in Ukraine’s central Dnipropetrovsk region, according to regional authorities. The attacks accompanied a wider Russian barrage involving missiles and 120 long-range strike drones across Ukraine.",
-    "lat": 48.4647,
-    "lng": 35.0462,
-    "tid": "russia-drones-artillery-dnipropetrovsk-three-killed-2026-08-11",
-    "tn": "Dnipropetrovsk Oblast, Ukraine",
-    "dmg": 52,
-    "cas": 3,
-    "dl": "REGIONAL ATTACKS — three civilians killed, including a 15-year-old boy",
-    "dc": "dmg-moderate",
-    "casualtyReport": "Three killed, including a 15-year-old boy, according to regional Ukrainian authorities",
-    "sources": [
-      {
-        "name": "Associated Press",
-        "url": "https://apnews.com/article/7aff38d17dd195e63b7c55fc5a008c22"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-11",
-    "time": "05:00",
-    "side": "ukraine",
-    "title": "Ukrainian drones strike Orsk oil refinery 1,500 km inside Russia",
-    "detail": "Ukraine’s General Staff said its forces struck the Orsk oil refinery in Russia’s Orenburg region near Kazakhstan, causing a fire. The plant can process about 44 million barrels of crude annually and produces gasoline, diesel and aviation fuel. The extent of the damage remained under assessment.",
-    "lat": 51.2293,
-    "lng": 58.4752,
-    "tid": "ukraine-drone-strike-orsk-refinery-2026-08-11",
-    "tn": "Orsk, Orenburg Oblast, Russia",
-    "dmg": 68,
-    "cas": 0,
-    "dl": "DEEP OIL STRIKE — fire at refinery roughly 1,500 km from Ukraine",
-    "dc": "dmg-heavy",
-    "casualtyReport": "No casualties reported; damage assessment ongoing",
+    "casualtyReport": "Six killed and 19 wounded, according to local Ukrainian officials",
     "sources": [
       {
         "name": "Associated Press",
