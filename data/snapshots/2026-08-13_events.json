@@ -12736,49 +12736,5 @@
         "url": "https://apnews.com/article/7aff38d17dd195e63b7c55fc5a008c22"
       }
     ]
-  },
-  {
-    "date": "2026-08-12",
-    "time": "01:00",
-    "side": "ukraine",
-    "title": "Ukrainian missiles and drones strike Russia’s Novorossiysk naval base",
-    "detail": "Ukraine carried out a large combined anti-ship missile, aerial-drone and sea-drone attack on Novorossiysk, Russia’s principal remaining Black Sea Fleet stronghold. Ukrainian officials said the operation hit air defenses, piers and other port infrastructure. Russian regional authorities said three people, including an 8-year-old child, were killed and 24 wounded; dozens of homes were damaged, and two of the port’s three grain terminals were damaged, with one suspending operations.",
-    "lat": 44.7238,
-    "lng": 37.7687,
-    "tid": "ukraine-novorossiysk-naval-base-missile-drone-strike-2026-08-12",
-    "tn": "Novorossiysk, Krasnodar Krai, Russia",
-    "dmg": 84,
-    "cas": 27,
-    "dl": "BLACK SEA FLEET STRIKE — naval-base infrastructure and two grain terminals damaged",
-    "dc": "dmg-severe",
-    "casualtyReport": "Three killed, including an 8-year-old child, and 24 wounded, according to Krasnodar regional authorities",
-    "sources": [
-      {
-        "name": "Associated Press",
-        "url": "https://apnews.com/article/9eadff0d7590923e3d98c99e2b61150b"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-12",
-    "time": "02:00",
-    "side": "russia",
-    "title": "Russian drone and missile attacks kill 2 in Kherson and damage Zaporizhzhia mall",
-    "detail": "Russia launched 138 long-range drones and an unspecified number of missiles overnight, with Ukraine’s air force recording damage at 16 locations. A large drone attack in Kherson Oblast killed two people and wounded two, while strikes destroyed a shopping mall in Zaporizhzhia. Russia’s Defense Ministry also claimed hits on fuel reservoirs and military-cargo infrastructure at the port of Chornomorsk in Odesa Oblast.",
-    "lat": 47.3251,
-    "lng": 32.5016,
-    "tid": "russia-kherson-zaporizhzhia-chornomorsk-barrage-2026-08-12",
-    "tn": "Southern Ukraine",
-    "dmg": 67,
-    "cas": 4,
-    "dl": "OVERNIGHT BARRAGE — two killed and two wounded; damage recorded at 16 locations",
-    "dc": "dmg-heavy",
-    "casualtyReport": "Two killed and two wounded in Kherson Oblast, according to Ukrainian regional authorities",
-    "sources": [
-      {
-        "name": "Associated Press",
-        "url": "https://apnews.com/article/9eadff0d7590923e3d98c99e2b61150b"
-      }
-    ]
   }
 ]
