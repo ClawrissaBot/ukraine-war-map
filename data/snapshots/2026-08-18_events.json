@@ -13088,49 +13088,5 @@
         "url": "https://apnews.com/article/01294bf8744282086e8f76c8130e16ba"
       }
     ]
-  },
-  {
-    "date": "2026-08-17",
-    "time": "09:00",
-    "side": "russia",
-    "title": "Russia strikes Naftogaz facilities 13 times in one week",
-    "detail": "Russian drones and missiles struck Naftogaz Group facilities 13 times across several Ukrainian regions during the preceding week, seriously damaging equipment and production capacity. One asset was hit repeatedly. Naftogaz said no employees were injured and reported that its premises had been attacked almost 300 times since the start of 2026.",
-    "lat": 49.0139,
-    "lng": 31.2858,
-    "tid": "russia-weeklong-naftogaz-energy-strikes-2026-08-17",
-    "tn": "Multiple regions, Ukraine",
-    "dmg": 76,
-    "cas": 0,
-    "dl": "ENERGY CAMPAIGN — 13 strikes seriously damage Naftogaz production capacity",
-    "dc": "dmg-heavy",
-    "casualtyReport": "No employees injured, according to Naftogaz Group",
-    "sources": [
-      {
-        "name": "Associated Press",
-        "url": "https://apnews.com/article/8cec7f6dacd1bc0508b8365d62e0d436"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-17",
-    "time": "10:00",
-    "side": "russia",
-    "title": "Russian attack sparks fatal fire at DTEK coal mine",
-    "detail": "A Russian attack started a fire at a coal mine operated by DTEK Group, Ukraine’s largest private energy investor, killing a 52-year-old man. The incident was reported as Russia continued an intensified aerial campaign against Ukrainian energy infrastructure.",
-    "lat": 48.5167,
-    "lng": 35.8667,
-    "tid": "russia-strike-dtek-coal-mine-fire-2026-08-17",
-    "tn": "DTEK coal mine, Ukraine",
-    "dmg": 61,
-    "cas": 1,
-    "dl": "COAL MINE FIRE — Russian attack kills 52-year-old worker",
-    "dc": "dmg-heavy",
-    "casualtyReport": "One 52-year-old man killed, according to DTEK Group",
-    "sources": [
-      {
-        "name": "Associated Press",
-        "url": "https://apnews.com/article/8cec7f6dacd1bc0508b8365d62e0d436"
-      }
-    ]
   }
 ]
