@@ -13132,49 +13132,5 @@
         "url": "https://apnews.com/article/8cec7f6dacd1bc0508b8365d62e0d436"
       }
     ]
-  },
-  {
-    "date": "2026-08-18",
-    "time": "01:00",
-    "side": "ukraine",
-    "title": "Ukraine launches nearly 800 drones in second huge attack on Russia in three days",
-    "detail": "Ukrainian forces launched almost 800 drones toward targets across Russia, occupied Crimea, and the Black and Azov seas, according to Russian officials. Russia’s Defense Ministry claimed 791 drones were intercepted, making it the second-largest Ukrainian drone attack since January 2025 in an Associated Press tally. More than 600 drones reportedly headed toward Moscow region; officials said six people were wounded across Moscow and neighboring Ryazan regions, private homes were damaged, and a fire broke out at a Wildberries warehouse.",
-    "lat": 55.7558,
-    "lng": 37.6173,
-    "tid": "ukraine-nearly-800-drone-attack-moscow-russia-2026-08-18",
-    "tn": "Moscow region and multiple regions, Russia",
-    "dmg": 54,
-    "cas": 6,
-    "dl": "NEARLY 800 DRONES — second massive Ukrainian barrage in three days wounds six",
-    "dc": "dmg-moderate",
-    "casualtyReport": "Six wounded: three in Moscow region and three in Ryazan region, according to regional officials",
-    "sources": [
-      {
-        "name": "Associated Press",
-        "url": "https://apnews.com/article/5f1f84bfb064942d7b7fe9be1bd4693c"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-18",
-    "time": "02:00",
-    "side": "russia",
-    "title": "Russian missile strike kills 10 civilians in Pechenihy",
-    "detail": "A Russian missile strike hit the village of Pechenihy in northeastern Ukraine’s Kharkiv region, killing at least 10 civilians and wounding 17 others, according to Ukrainian officials. The barrage demolished private homes, leaving rescuers searching through rubble and fighting fires.",
-    "lat": 49.8636,
-    "lng": 36.9342,
-    "tid": "russia-missile-strike-pechenihy-kharkiv-2026-08-18",
-    "tn": "Pechenihy, Kharkiv Oblast, Ukraine",
-    "dmg": 72,
-    "cas": 27,
-    "dl": "PECHENIHY MISSILE STRIKE — 10 civilians killed and 17 wounded",
-    "dc": "dmg-heavy",
-    "casualtyReport": "Ten killed and 17 wounded, according to Ukrainian regional officials",
-    "sources": [
-      {
-        "name": "Associated Press",
-        "url": "https://apnews.com/article/5f1f84bfb064942d7b7fe9be1bd4693c"
-      }
-    ]
   }
 ]
