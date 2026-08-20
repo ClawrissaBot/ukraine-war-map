@@ -13176,27 +13176,5 @@
         "url": "https://apnews.com/article/5f1f84bfb064942d7b7fe9be1bd4693c"
       }
     ]
-  },
-  {
-    "date": "2026-08-20",
-    "time": "01:00",
-    "side": "russia",
-    "title": "Russian missile barrage kills at least 12 and wounds 33 in Kyiv",
-    "detail": "An overnight Russian missile barrage struck 12 locations across Kyiv's Darnytskyi, Sviatoshynskyi and Solomianskyi districts, killing at least 12 people and wounding 33, according to local authorities and Ukraine's Emergency Service. Residential buildings, a medical facility and an educational institution were damaged. The top two floors of a nine-story apartment building in Solomianskyi district were destroyed, while fires and entrapments prompted continuing rescue operations.",
-    "lat": 50.4501,
-    "lng": 30.5234,
-    "tid": "russia-missile-barrage-kyiv-twelve-killed-2026-08-20",
-    "tn": "Kyiv, Ukraine",
-    "dmg": 82,
-    "cas": 45,
-    "dl": "KYIV MISSILE BARRAGE — at least 12 killed and 33 wounded across 12 strike sites",
-    "dc": "dmg-severe",
-    "casualtyReport": "At least 12 killed and 33 wounded, according to Kyiv authorities and Ukraine's Emergency Service",
-    "sources": [
-      {
-        "name": "Associated Press",
-        "url": "https://apnews.com/article/92ff5d7d1073fd8692a75e4e677f425b"
-      }
-    ]
   }
 ]
