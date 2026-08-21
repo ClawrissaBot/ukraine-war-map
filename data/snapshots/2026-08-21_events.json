@@ -13181,39 +13181,17 @@
     "date": "2026-08-20",
     "time": "01:00",
     "side": "russia",
-    "title": "Russian missile and drone barrage kills at least 16 in Kyiv region",
-    "detail": "Russia struck Kyiv and the surrounding region with scores of ballistic and cruise missiles and jet-powered drones in an overnight attack lasting for hours. Ukraine's Emergency Service said 15 people were killed in the capital and one in the wider Kyiv region, while President Volodymyr Zelenskyy said about 40 people were wounded. Hits were recorded at 28 locations nationwide; residential buildings, a medical facility and an educational institution were among sites damaged in Kyiv.",
+    "title": "Russian missile barrage kills at least 12 and wounds 33 in Kyiv",
+    "detail": "An overnight Russian missile barrage struck 12 locations across Kyiv's Darnytskyi, Sviatoshynskyi and Solomianskyi districts, killing at least 12 people and wounding 33, according to local authorities and Ukraine's Emergency Service. Residential buildings, a medical facility and an educational institution were damaged. The top two floors of a nine-story apartment building in Solomianskyi district were destroyed, while fires and entrapments prompted continuing rescue operations.",
     "lat": 50.4501,
     "lng": 30.5234,
     "tid": "russia-missile-barrage-kyiv-twelve-killed-2026-08-20",
     "tn": "Kyiv, Ukraine",
     "dmg": 82,
-    "cas": 56,
-    "dl": "KYIV-REGION BARRAGE — at least 16 killed and about 40 wounded in hours-long attack",
+    "cas": 45,
+    "dl": "KYIV MISSILE BARRAGE — at least 12 killed and 33 wounded across 12 strike sites",
     "dc": "dmg-severe",
-    "casualtyReport": "At least 16 killed and about 40 wounded, according to Ukraine's Emergency Service and President Volodymyr Zelenskyy",
-    "sources": [
-      {
-        "name": "Associated Press",
-        "url": "https://apnews.com/article/92ff5d7d1073fd8692a75e4e677f425b"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-20",
-    "time": "02:00",
-    "side": "ukraine",
-    "title": "Ukraine launches one of war's biggest drone barrages across Russia",
-    "detail": "Ukraine launched a massive overnight drone assault across multiple Russian regions, occupied Crimea and the Black and Azov seas. Russia's Defense Ministry claimed its air defenses intercepted 726 drones, placing the operation among Ukraine's largest aerial attacks of the war. The claim could not be independently verified, and initial reports did not establish the full extent of damage or casualties.",
-    "lat": 55.7558,
-    "lng": 37.6173,
-    "tid": "ukraine-726-drone-barrage-russia-2026-08-20",
-    "tn": "Multiple regions, Russia",
-    "dmg": 28,
-    "cas": 0,
-    "dl": "726-DRONE BARRAGE — Russia claims one of Ukraine's largest aerial attacks was intercepted",
-    "dc": "dmg-moderate",
-    "casualtyReport": "No consolidated casualty figure was available in initial reports",
+    "casualtyReport": "At least 12 killed and 33 wounded, according to Kyiv authorities and Ukraine's Emergency Service",
     "sources": [
       {
         "name": "Associated Press",
