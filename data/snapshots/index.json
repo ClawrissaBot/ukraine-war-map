@@ -953,5 +953,11 @@
     "label": "2026-08-30 — 587 events",
     "date": "2026-08-30",
     "eventCount": 587
+  },
+  {
+    "file": "2026-08-31_events.json",
+    "label": "2026-08-31 — 591 events",
+    "date": "2026-08-31",
+    "eventCount": 591
   }
 ]
