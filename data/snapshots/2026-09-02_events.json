@@ -14473,8 +14473,8 @@
     "side": "russia",
     "title": "Russia launches cruise missile and 121 drones at Ukraine",
     "detail": "Russia launched one Kh-59 cruise missile and 121 Shahed-, Gerbera- and Parodiya-type drones overnight. Ukraine's Air Force reported downing 96 drones and said the missile missed its target, while munitions struck 11 locations and debris fell at eight more; industrial, mining, food-warehouse, postal and civilian infrastructure was hit across Dnipropetrovsk, Kyiv, Mykolaiv and Odesa oblasts.",
-    "lat": 49,
-    "lng": 31,
+    "lat": 49.0,
+    "lng": 31.0,
     "tid": "russia-kh59-121-drone-attack-ukraine-2026-08-31",
     "tn": "Multiple regions, Ukraine",
     "dmg": 76,
@@ -14604,72 +14604,6 @@
       {
         "name": "Associated Press",
         "url": "https://apnews.com/article/russia-ukraine-war-drones-missiles-kyiv-odesa-7564a892bfb99a853aa150c8710b7985"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "time": "10:00",
-    "side": "ukraine",
-    "title": "Ukraine liberated at least 129.81 square kilometers in August",
-    "detail": "ISW assessed that Ukrainian counteroffensive operations liberated at least 129.81 square kilometers during August, notably in the Lyman and Oleksandrivka directions. Over the same month, Russian forces seized about 90.35 square kilometers, or 123.53 square kilometers when infiltrations are included, while failing to achieve an operational breakthrough.",
-    "lat": 48.35,
-    "lng": 37.75,
-    "tid": "ukraine-august-counteroffensive-net-territorial-gains-2026-09-01",
-    "tn": "Eastern Ukraine",
-    "dmg": 58,
-    "cas": 0,
-    "dl": "CAMPAIGN ASSESSMENT — Ukrainian gains exceeded confirmed Russian seizures in August",
-    "dc": "dmg-medium",
-    "casualtyReport": "No event-specific casualty figure; ISW cited a Ukrainian General Staff claim of 42,020 Russian casualties during August",
-    "sources": [
-      {
-        "name": "Institute for the Study of War",
-        "url": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-1-2026/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "time": "12:00",
-    "side": "ukraine",
-    "title": "Ukraine strikes Russian drone sites in occupied Donetsk",
-    "detail": "Ukraine's General Staff reported that Ukrainian forces struck Russian storage, preparation and launch sites for strike drones in occupied Donetsk City on August 31 or overnight into September 1. The target area lies roughly 60 kilometers from the frontline.",
-    "lat": 48.02,
-    "lng": 37.8,
-    "tid": "ukraine-strikes-russian-drone-launch-sites-donetsk-2026-09-01",
-    "tn": "Occupied Donetsk, Donetsk Oblast, Ukraine",
-    "dmg": 70,
-    "cas": 0,
-    "dl": "DRONE INFRASTRUCTURE STRIKE — storage and launch sites targeted",
-    "dc": "dmg-heavy",
-    "casualtyReport": "No reliable casualty figure reported for the strike",
-    "sources": [
-      {
-        "name": "Institute for the Study of War",
-        "url": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-1-2026/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "time": "14:00",
-    "side": "russia",
-    "title": "Russia strikes Orlivka ferry crossing on Romanian border",
-    "detail": "Russian forces struck infrastructure at the international Orlivka ferry crossing in Odesa Oblast, continuing attacks against Ukrainian-Romanian border infrastructure. The crossing links Orlivka with Isaccea across the Danube.",
-    "lat": 45.32,
-    "lng": 28.45,
-    "tid": "russia-strikes-orlivka-romania-border-crossing-2026-09-01",
-    "tn": "Orlivka, Odesa Oblast, Ukraine",
-    "dmg": 62,
-    "cas": 0,
-    "dl": "BORDER INFRASTRUCTURE STRIKE — international ferry crossing hit",
-    "dc": "dmg-heavy",
-    "casualtyReport": "No reliable casualty figure reported for the strike",
-    "sources": [
-      {
-        "name": "Institute for the Study of War",
-        "url": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-1-2026/"
       }
     ]
   }
