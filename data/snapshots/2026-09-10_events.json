@@ -15865,17 +15865,17 @@
     "date": "2026-09-08",
     "time": "19:41",
     "side": "russia",
-    "title": "Russian strikes hit three Ukrainian passenger trains, killing three and injuring eight",
-    "detail": "Russian forces struck three passenger trains during what Ukrainian Railways described as a day of hunting railway targets. A train attendant was killed after a strike on the Dnipro-Zaporizhzhia service; a separate drone strike on a suburban train in Sumy district injured 10 passengers, two of whom later died in hospital. Passengers from another Kyiv-Sumy train were evacuated unharmed.",
+    "title": "Russian strikes hit three Ukrainian passenger trains, killing one and injuring 10",
+    "detail": "Russian forces struck three passenger trains during what Ukrainian Railways described as a day of hunting railway targets. A train attendant was killed after a strike on the Dnipro-Zaporizhzhia service; a separate drone strike on a suburban train in Sumy district injured 10 passengers, set a locomotive and carriage ablaze and prompted a repeat strike while firefighters worked. Passengers from another Kyiv-Sumy train were evacuated unharmed.",
     "lat": 50.91,
     "lng": 34.8,
     "tid": "russia-strikes-three-passenger-trains-one-killed-ten-injured-2026-09-08",
     "tn": "Sumy and Dnipropetrovsk oblasts, Ukraine",
     "dmg": 82,
     "cas": 11,
-    "dl": "RAIL ATTACKS — three killed and eight surviving passengers injured",
+    "dl": "RAIL ATTACKS — one railway worker killed and 10 passengers injured",
     "dc": "dmg-heavy",
-    "casualtyReport": "Three people killed and eight injured",
+    "casualtyReport": "One train attendant killed and 10 passengers injured",
     "sources": [
       {
         "name": "Ukrainska Pravda",
@@ -15884,10 +15884,6 @@
       {
         "name": "Ukrainska Pravda",
         "url": "https://www.pravda.com.ua/eng/news/2026/09/08/8052492/"
-      },
-      {
-        "name": "Ukrainska Pravda",
-        "url": "https://www.pravda.com.ua/eng/news/2026/09/09/8052620/"
       }
     ]
   },
@@ -16002,246 +15998,6 @@
       {
         "name": "Ukrainska Pravda",
         "url": "https://www.pravda.com.ua/eng/news/2026/09/09/8052532/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-09",
-    "time": "07:25",
-    "side": "russia",
-    "title": "Russian drones strike Ukraine-Moldova border crossing, killing two",
-    "detail": "Russian drones struck the Starokozache international road crossing on the Odesa Oblast border with Moldova overnight, killing two civilians and injuring three. Buildings were damaged, buses, lorries and cars were destroyed, a large fire broke out, 16 people were evacuated and processing at the crossing was suspended.",
-    "lat": 46.34,
-    "lng": 30.17,
-    "tid": "russia-drones-starokozache-moldova-border-crossing-two-killed-2026-09-09",
-    "tn": "Starokozache border crossing, Odesa Oblast, Ukraine",
-    "dmg": 78,
-    "cas": 5,
-    "dl": "BORDER CROSSING STRUCK — two killed, three injured and operations suspended",
-    "dc": "dmg-heavy",
-    "casualtyReport": "Two people killed and three injured",
-    "sources": [
-      {
-        "name": "Ukrainska Pravda",
-        "url": "https://www.pravda.com.ua/eng/news/2026/09/09/8052539/"
-      },
-      {
-        "name": "Institute for the Study of War",
-        "url": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-9-2026/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-09",
-    "time": "09:03",
-    "side": "russia",
-    "title": "Russia launches missiles and 196 drones across Ukraine",
-    "detail": "Russian forces launched Iskander-M ballistic missiles, S8000 Banderol loitering munitions and 196 Shahed, Gerbera and other drones from the evening of 8 September. Ukraine reported destroying or jamming 165 drones, with missile and drone impacts at 23 locations and debris at four more; strikes affected civilian, railway, port and energy infrastructure across multiple oblasts.",
-    "lat": 49,
-    "lng": 31.5,
-    "tid": "russia-missiles-196-drones-ukraine-165-intercepted-2026-09-09",
-    "tn": "Multiple regions, Ukraine",
-    "dmg": 88,
-    "cas": 0,
-    "dl": "NATIONWIDE BARRAGE — missiles and 196 drones; impacts recorded at 23 locations",
-    "dc": "dmg-heavy",
-    "casualtyReport": "Casualties recorded in separate localized attacks",
-    "sources": [
-      {
-        "name": "Ukrainska Pravda",
-        "url": "https://www.pravda.com.ua/eng/news/2026/09/09/8052547/"
-      },
-      {
-        "name": "Institute for the Study of War",
-        "url": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-9-2026/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-09",
-    "time": "09:52",
-    "side": "ukraine",
-    "title": "Ukraine strikes Novorossiysk naval base and Russian missile carriers",
-    "detail": "Ukraine confirmed a combined strike on Russia's Novorossiysk naval base, reporting that military vessels including Kalibr missile carriers were hit. Ukrainian forces also reported destroying an Su-33 fighter, an Mi-8 helicopter and two S-300/S-400 radar systems near Anapa and Gelendzhik; ISW said a Neptune missile struck the Admiral Essen frigate.",
-    "lat": 44.72,
-    "lng": 37.77,
-    "tid": "ukraine-strikes-novorossiysk-naval-base-missile-carriers-2026-09-09",
-    "tn": "Novorossiysk, Krasnodar Krai, Russia",
-    "dmg": 91,
-    "cas": 0,
-    "dl": "NAVAL BASE STRIKE — warships, aircraft and air-defence radars reportedly hit",
-    "dc": "dmg-heavy",
-    "casualtyReport": "No casualty assessment available",
-    "sources": [
-      {
-        "name": "Ukrainska Pravda",
-        "url": "https://www.pravda.com.ua/eng/news/2026/09/09/8052553/"
-      },
-      {
-        "name": "Institute for the Study of War",
-        "url": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-9-2026/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-09",
-    "time": "10:00",
-    "side": "russia",
-    "title": "Russian drone strikes Kharkiv-Izium passenger train, injuring six",
-    "detail": "A Russian Shahed drone struck the rear section of a Kharkiv-Izium passenger train at a railway station near the village of Iskra, starting a fire. Six people were injured and received medical treatment, marking another attack on Ukrainian passenger rail after three trains were targeted the previous day.",
-    "lat": 49.18,
-    "lng": 37.28,
-    "tid": "russia-drone-kharkiv-izium-train-six-injured-2026-09-09",
-    "tn": "Iskra, Kharkiv Oblast, Ukraine",
-    "dmg": 72,
-    "cas": 6,
-    "dl": "PASSENGER TRAIN HIT — six injured after Shahed strikes rear carriage",
-    "dc": "dmg-heavy",
-    "casualtyReport": "Six people injured",
-    "sources": [
-      {
-        "name": "Ukrainska Pravda",
-        "url": "https://www.pravda.com.ua/eng/news/2026/09/09/8052571/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-09",
-    "time": "12:37",
-    "side": "russia",
-    "title": "Russian drone attacks in Kherson kill two and injure one",
-    "detail": "Separate Russian drone attacks in Kherson's Korabelnyi district killed a man at about 08:25 and a 55-year-old woman at about 09:40. A Russian strike on nearby Komyshany also injured a 34-year-old man, who was hospitalized with blast injuries, a back wound and concussion.",
-    "lat": 46.64,
-    "lng": 32.62,
-    "tid": "russia-drone-attacks-kherson-two-killed-one-injured-2026-09-09",
-    "tn": "Kherson and Komyshany, Ukraine",
-    "dmg": 58,
-    "cas": 3,
-    "dl": "CIVILIAN DRONE ATTACKS — two killed and one hospitalized",
-    "dc": "dmg-moderate",
-    "casualtyReport": "Two people killed and one injured",
-    "sources": [
-      {
-        "name": "Ukrainska Pravda",
-        "url": "https://www.pravda.com.ua/eng/news/2026/09/09/8052581/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-09",
-    "time": "17:07",
-    "side": "russia",
-    "title": "Russian drone hits Kyiv apartment building, killing woman and injuring three",
-    "detail": "A Russian drone struck a nine-storey residential building in Kyiv's Dniprovskyi district and started a fire. A woman was killed and three people were injured, including a 15-year-old boy and a 16-year-old girl.",
-    "lat": 50.44,
-    "lng": 30.61,
-    "tid": "russia-drone-kyiv-apartment-building-woman-killed-three-injured-2026-09-09",
-    "tn": "Dniprovskyi district, Kyiv, Ukraine",
-    "dmg": 74,
-    "cas": 4,
-    "dl": "APARTMENT BUILDING HIT — woman killed; two teenagers among three injured",
-    "dc": "dmg-heavy",
-    "casualtyReport": "One woman killed and three people injured, including two teenagers",
-    "sources": [
-      {
-        "name": "Ukrainska Pravda",
-        "url": "https://www.pravda.com.ua/eng/news/2026/09/09/8052633/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-09",
-    "time": "18:49",
-    "side": "russia",
-    "title": "Day-long Russian attacks on Mykolaiv kill two and injure 12",
-    "detail": "Russian forces attacked Mykolaiv and the surrounding oblast for nearly 24 hours with drones, ballistic missiles, Banderol munitions and a guided bomb. Two people were killed and 12 injured, including a one-year-old boy; port, transport and energy infrastructure, warehouses, a shopping centre, a postal terminal, homes and vehicles were damaged.",
-    "lat": 46.98,
-    "lng": 31.99,
-    "tid": "russia-day-long-attacks-mykolaiv-two-killed-twelve-injured-2026-09-09",
-    "tn": "Mykolaiv and Mykolaiv Oblast, Ukraine",
-    "dmg": 90,
-    "cas": 14,
-    "dl": "DAY-LONG BARRAGE — two killed, 12 injured and port infrastructure damaged",
-    "dc": "dmg-heavy",
-    "casualtyReport": "Two people killed and 12 injured, including a one-year-old child",
-    "sources": [
-      {
-        "name": "Ukrainska Pravda",
-        "url": "https://www.pravda.com.ua/eng/news/2026/09/09/8052642/"
-      },
-      {
-        "name": "Ukrainska Pravda",
-        "url": "https://www.pravda.com.ua/eng/news/2026/09/09/8052567/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-09",
-    "time": "20:24",
-    "side": "ukraine",
-    "title": "Ukrainian drones hit two Russian gas plants in record 3,000-km strike",
-    "detail": "Ukraine's Special Operations Forces said long-range drones struck the Novy Urengoy Condensate Treatment Plant and Purovsky Condensate Processing Plant in Russia's Yamalo-Nenets Autonomous Okrug. The mission, described as Ukraine's deepest strike of the war, reached critical gas-condensate facilities more than 3,000 kilometres from Ukraine.",
-    "lat": 65.55,
-    "lng": 77.25,
-    "tid": "ukraine-drones-yamal-gas-condensate-plants-record-strike-2026-09-09",
-    "tn": "Yamalo-Nenets Autonomous Okrug, Russia",
-    "dmg": 84,
-    "cas": 0,
-    "dl": "RECORD DEEP STRIKE — two strategic gas plants targeted more than 3,000 km away",
-    "dc": "dmg-heavy",
-    "casualtyReport": "No casualties reported; damage assessment incomplete",
-    "sources": [
-      {
-        "name": "Ukrainska Pravda",
-        "url": "https://www.pravda.com.ua/eng/news/2026/09/09/8052667/"
-      },
-      {
-        "name": "Institute for the Study of War",
-        "url": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-9-2026/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-09",
-    "time": "22:37",
-    "side": "russia",
-    "title": "Russian drone strikes Sumy shopping-centre car park, killing three and injuring 14",
-    "detail": "A Russian drone struck a car park near a shopping centre in central Sumy during the evening commute, killing three people and injuring 14, including a 16-year-old. Four of the injured were reported in serious condition, and the strike set private cars on fire.",
-    "lat": 50.91,
-    "lng": 34.8,
-    "tid": "russia-drone-sumy-shopping-centre-car-park-three-killed-fourteen-injured-2026-09-09",
-    "tn": "Sumy, Ukraine",
-    "dmg": 82,
-    "cas": 17,
-    "dl": "EVENING SHOPPING-CENTRE STRIKE — three killed and 14 injured",
-    "dc": "dmg-heavy",
-    "casualtyReport": "Three people killed and 14 injured, including a teenager",
-    "sources": [
-      {
-        "name": "Ukrainska Pravda",
-        "url": "https://www.pravda.com.ua/eng/news/2026/09/09/8052668/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-09",
-    "time": "23:00",
-    "side": "ukraine",
-    "title": "Ukrainian counterattacks pressure Russian positions near Lyman",
-    "detail": "ISW reported that Russian military bloggers acknowledged a deteriorating situation for Russian forces near Lyman and withdrawals from unspecified forward positions amid continuing Ukrainian counterattacks. Ukraine also demonstrated full control of Sviatohirsk after Russia had claimed the settlement, though ISW said limited public evidence prevented a precise assessment of the counteroffensive's gains.",
-    "lat": 48.99,
-    "lng": 37.81,
-    "tid": "ukraine-counterattacks-russian-withdrawals-near-lyman-2026-09-09",
-    "tn": "Lyman direction, Donetsk Oblast, Ukraine",
-    "dmg": 66,
-    "cas": 0,
-    "dl": "COUNTEROFFENSIVE — Russian sources acknowledge withdrawals near Lyman",
-    "dc": "dmg-moderate",
-    "casualtyReport": "No reliable casualty assessment available",
-    "sources": [
-      {
-        "name": "Institute for the Study of War",
-        "url": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-9-2026/"
       }
     ]
   }
