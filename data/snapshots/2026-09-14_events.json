@@ -16962,148 +16962,22 @@
   {
     "date": "2026-09-13",
     "time": "overnight",
-    "side": "ukraine",
-    "title": "Ukrainian drones strike TANECO refinery in Nizhnekamsk, killing two",
-    "detail": "Ukraine's General Staff said Ukrainian forces struck the TANECO refinery in Nizhnekamsk, sparking a fire at one of Russia's largest oil-processing facilities. Tatarstan authorities reported two people killed and 12 injured; the casualty figures and full damage assessment were not independently verified.",
+    "side": "report",
+    "title": "Drone attack hits Nizhnekamsk industrial hub, killing two",
+    "detail": "A drone attack sparked a fire at an unidentified industrial facility in Nizhnekamsk, a major Russian oil-refining and petrochemical hub. Tatarstan authorities reported two people killed and 12 injured; the figures and the attack's attribution were not independently verified.",
     "lat": 55.64,
     "lng": 51.82,
     "tid": "drone-attack-nizhnekamsk-industrial-hub-casualties-2026-09-13",
     "tn": "Nizhnekamsk, Tatarstan, Russia",
     "dmg": 83,
     "cas": 14,
-    "dl": "MAJOR REFINERY STRIKE — fire reported; two killed and 12 injured",
+    "dl": "INDUSTRIAL-HUB DRONE STRIKE — two reported killed and 12 injured",
     "dc": "dmg-heavy",
-    "casualtyReport": "Russian authorities report two killed and 12 injured; full damage assessment unverified",
+    "casualtyReport": "Russian authorities report two killed and 12 injured; unverified",
     "sources": [
       {
         "name": "Kyiv Independent",
         "url": "https://kyivindependent.com/drone-attack-hits-industrial-hub-in-russias-tatarstan-casualties-reported/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-13",
-    "time": "overnight",
-    "side": "ukraine",
-    "title": "Ukrainian drones strike Slavyansky refinery and Millerovo launch site",
-    "detail": "Ukraine's General Staff said its forces struck the Slavyansky oil refinery in Krasnodar Krai, causing a fire, and a facility in Millerovo used to store, prepare and launch Russian attack drones. The refinery processes about 5.2 million metric tons of crude annually and supplies fuels used by the Russian military, according to the General Staff.",
-    "lat": 45.26,
-    "lng": 38.13,
-    "tid": "ukraine-strikes-slavyansky-refinery-millerovo-drone-site-2026-09-13",
-    "tn": "Slavyansk-na-Kubani, Krasnodar Krai, Russia",
-    "dmg": 88,
-    "cas": 0,
-    "dl": "REFINERY AND DRONE-SITE STRIKES — fire at major southern refinery",
-    "dc": "dmg-heavy",
-    "casualtyReport": "No confirmed casualties at the Slavyansky refinery or Millerovo launch site",
-    "sources": [
-      {
-        "name": "Kyiv Independent",
-        "url": "https://kyivindependent.com/drone-attack-hits-industrial-hub-in-russias-tatarstan-casualties-reported/"
-      },
-      {
-        "name": "h.ua source digest",
-        "url": "https://en.h.ua/2026/09/13/ukraine-strikes-russian-drone-infrastructure-across-occupied-territories-and"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-13",
-    "time": "morning",
-    "side": "russia",
-    "title": "Russian drone strikes Kyiv-Warsaw train near Polish border",
-    "detail": "A Russian drone struck a locomotive at Yahodyn station about 2 kilometers from Poland during a mass attack on western Ukraine. Passengers were evacuated and no one was hurt. A diplomatic train carrying former British Prime Minister Boris Johnson, former Swedish Prime Minister Carl Bildt and EU security advisers had departed minutes earlier; another train carrying former CIA Director David Petraeus remained at the station.",
-    "lat": 51.18,
-    "lng": 23.87,
-    "tid": "russia-drone-kyiv-warsaw-train-yahodyn-border-2026-09-13",
-    "tn": "Yahodyn, Volyn Oblast, Ukraine",
-    "dmg": 78,
-    "cas": 0,
-    "dl": "BORDER RAIL STRIKE — locomotive hit 2 km from Poland; passengers evacuated",
-    "dc": "dmg-heavy",
-    "casualtyReport": "No casualties reported; passengers evacuated",
-    "sources": [
-      {
-        "name": "Associated Press",
-        "url": "https://apnews.com/article/ukraine-train-drone-strike-border-diplomats-43e00d1e6f069230f4f2e58520349264"
-      },
-      {
-        "name": "Reuters",
-        "url": "https://au.marketscreener.com/news/russia-hits-truck-near-polish-border-in-latest-strike-near-nato-ce785bdcd98dfe25"
-      },
-      {
-        "name": "Kyiv Independent",
-        "url": "https://kyivindependent.com/russian-drone-hits-kyiv-warsaw-train-near-polish-border-as-nationwide-attacks-kill-6-injure-43/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-13",
-    "time": "afternoon",
-    "side": "report",
-    "title": "Trump calls on Ukraine to halt strikes on Russian diesel infrastructure",
-    "detail": "U.S. President Donald Trump publicly urged President Volodymyr Zelenskyy to stop Ukrainian strikes on Russian diesel infrastructure, blaming the campaign for worsening a global diesel shortage. The intervention directly challenged a Ukrainian deep-strike campaign that has forced Russian fuel rationing and a diesel-export ban.",
-    "lat": 52.73,
-    "lng": -9.52,
-    "tid": "trump-calls-ukraine-halt-russian-diesel-strikes-2026-09-13",
-    "tn": "Doonbeg, County Clare, Ireland",
-    "dmg": 0,
-    "cas": 0,
-    "dl": "U.S. PRESSURE — Trump urges halt to strikes on Russian diesel infrastructure",
-    "dc": "dmg-none",
-    "casualtyReport": "No casualties; major diplomatic and military-policy development",
-    "sources": [
-      {
-        "name": "Associated Press",
-        "url": "https://apnews.com/article/russia-ukraine-war-drones-odesa-refinery-border-crossing-17bb6a0401abc3eaa7d4586150a41d7d"
-      },
-      {
-        "name": "Kyiv Independent",
-        "url": "https://kyivindependent.com/trump-tells-zelensky-to-stop-striking-russian-diesel-infrastructure/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-13",
-    "time": "late evening",
-    "side": "report",
-    "title": "Reported Ukrainian strike cuts power in occupied Mariupol",
-    "detail": "Monitoring channels reported strikes on energy infrastructure in Russian-occupied Mariupol, leaving part of the city without electricity after Russian air defenses engaged. A building was also reportedly hit. Ukraine had not confirmed the operation and the reports could not be independently verified.",
-    "lat": 47.1,
-    "lng": 37.54,
-    "tid": "reported-ukraine-strike-mariupol-energy-infrastructure-2026-09-13",
-    "tn": "Mariupol, occupied Donetsk Oblast, Ukraine",
-    "dmg": 74,
-    "cas": 0,
-    "dl": "OCCUPIED-CITY ENERGY STRIKE — partial blackout reported",
-    "dc": "dmg-heavy",
-    "casualtyReport": "No confirmed casualties; damage and attribution unverified",
-    "sources": [
-      {
-        "name": "Kyiv Independent",
-        "url": "https://kyivindependent.com/ukrainian-forces-reportedly-strike-energy-infrastructure-in-occupied-mariupol-as-fire-burns-in-russias-taganrog/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-14",
-    "time": "overnight",
-    "side": "report",
-    "title": "Large drone attack causes fires in Sochi and injures five",
-    "detail": "A large drone attack caused explosions and at least one major fire in Sochi, according to resident footage and monitoring channels. Russian authorities said falling debris injured five people, including a child, and damaged three homes. Ukraine had not confirmed the attack, and the target and full damage remained unverified.",
-    "lat": 43.6,
-    "lng": 39.73,
-    "tid": "drone-attack-sochi-fires-five-injured-2026-09-14",
-    "tn": "Sochi, Krasnodar Krai, Russia",
-    "dmg": 72,
-    "cas": 5,
-    "dl": "LARGE DRONE ATTACK — fires reported; five injured by falling debris",
-    "dc": "dmg-heavy",
-    "casualtyReport": "Russian authorities report five injured, including a child; unverified",
-    "sources": [
-      {
-        "name": "Kyiv Independent",
-        "url": "https://kyivindependent.com/explosion-fires-reported-around-sochi-following-ukrainian-strikes/"
       }
     ]
   }
