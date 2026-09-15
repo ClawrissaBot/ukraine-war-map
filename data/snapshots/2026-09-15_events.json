@@ -17088,134 +17088,22 @@
   {
     "date": "2026-09-14",
     "time": "overnight",
-    "side": "ukraine",
-    "title": "Ukraine strikes S-400 radar in Sochi; falling debris injures five",
-    "detail": "Ukraine's General Staff said its forces struck a 92N6 multifunction radar belonging to a Russian S-400 air-defense system in Sochi. Russian authorities said the wider drone attack caused fires, damaged three homes and injured five people, including a child. The extent of damage to the radar remained under assessment.",
+    "side": "report",
+    "title": "Large drone attack causes fires in Sochi and injures five",
+    "detail": "A large drone attack caused explosions and at least one major fire in Sochi, according to resident footage and monitoring channels. Russian authorities said falling debris injured five people, including a child, and damaged three homes. Ukraine had not confirmed the attack, and the target and full damage remained unverified.",
     "lat": 43.6,
     "lng": 39.73,
     "tid": "drone-attack-sochi-fires-five-injured-2026-09-14",
     "tn": "Sochi, Krasnodar Krai, Russia",
-    "dmg": 82,
+    "dmg": 72,
     "cas": 5,
-    "dl": "S-400 RADAR STRIKE — military target hit; five injured by falling debris",
+    "dl": "LARGE DRONE ATTACK — fires reported; five injured by falling debris",
     "dc": "dmg-heavy",
-    "casualtyReport": "Russian authorities report five injured, including a child; radar damage under assessment",
+    "casualtyReport": "Russian authorities report five injured, including a child; unverified",
     "sources": [
       {
         "name": "Kyiv Independent",
         "url": "https://kyivindependent.com/explosion-fires-reported-around-sochi-following-ukrainian-strikes/"
-      },
-      {
-        "name": "Interfax-Ukraine",
-        "url": "https://en.interfax.com.ua/news/general/1203802-amp.html"
-      },
-      {
-        "name": "Institute for the Study of War",
-        "url": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-14-2026/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-14",
-    "time": "evening",
-    "side": "report",
-    "title": "Ukraine offers conditional halt to strikes on Russian critical infrastructure",
-    "detail": "President Volodymyr Zelenskyy said Ukraine was ready to halt strikes on Russian territory if allies secured a genuine Russian commitment not to attack Ukraine's critical infrastructure. The statement followed President Donald Trump's claim that both sides had agreed not to hit energy targets, but Kyiv said it was unaware of a finalized deal and Russia had not confirmed one.",
-    "lat": 50.45,
-    "lng": 30.52,
-    "tid": "ukraine-conditional-critical-infrastructure-strike-moratorium-2026-09-14",
-    "tn": "Kyiv, Ukraine",
-    "dmg": 0,
-    "cas": 0,
-    "dl": "CONDITIONAL STRIKE MORATORIUM — Kyiv seeks verified Russian reciprocity",
-    "dc": "dmg-none",
-    "casualtyReport": "No casualties; major diplomatic and military-policy development",
-    "sources": [
-      {
-        "name": "Associated Press",
-        "url": "https://apnews.com/article/russia-ukraine-war-poland-nato-drones-dbba56f09562f337aa731f7d4bbd1235"
-      },
-      {
-        "name": "Kyiv Independent",
-        "url": "https://kyivindependent.com/breaking-trump-claims-ukraine-russia-agree-to-halt-strikes-on-energy-targets/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-15",
-    "time": "overnight",
-    "side": "ukraine",
-    "title": "Ukrainian attack reportedly hits Syzran refinery and Taganrog warehouse",
-    "detail": "Monitoring channels reported fires at several points inside the Syzran Oil Refinery after a Ukrainian drone attack. Samara Oblast authorities acknowledged damage to an industrial site after more than 40 drones were reportedly intercepted. Rostov Oblast authorities separately said Ukrainian missiles damaged an Ozon warehouse and other structures in Taganrog; the reports were not independently verified.",
-    "lat": 53.12,
-    "lng": 48.47,
-    "tid": "ukraine-strikes-syzran-refinery-taganrog-warehouse-2026-09-15",
-    "tn": "Syzran, Samara Oblast, Russia",
-    "dmg": 79,
-    "cas": 0,
-    "dl": "DEEP STRIKE WAVE — refinery fires reported; Taganrog warehouse damaged",
-    "dc": "dmg-heavy",
-    "casualtyReport": "No casualties confirmed; damage reports not independently verified",
-    "sources": [
-      {
-        "name": "Kyiv Independent",
-        "url": "https://kyivindependent.com/ukrainian-forces-reportedly-strike-russias-syzran-oil-refinery/"
-      },
-      {
-        "name": "Reuters via Internazionale",
-        "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/15/russia-hits-petrol-station-warehouse-facilities-in-kyiv-mayor-says"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-15",
-    "time": "early morning",
-    "side": "report",
-    "title": "NATO jets shoot down drone over Lithuania after incursion from Belarus",
-    "detail": "Italian fighter jets serving NATO's Baltic Air Policing mission shot down a drone that entered Lithuanian airspace from Belarus and flew near Vilnius before interception near Kaunas. Lithuanian officials said it was the country's first such shootdown, the drone likely carried explosives, and its origin and intended target remained under investigation.",
-    "lat": 54.86,
-    "lng": 24.45,
-    "tid": "nato-shoots-down-drone-lithuania-from-belarus-2026-09-15",
-    "tn": "Kaišiadorys district, Lithuania",
-    "dmg": 30,
-    "cas": 0,
-    "dl": "NATO AIRSPACE INCURSION — drone likely carrying explosives shot down",
-    "dc": "dmg-light",
-    "casualtyReport": "No casualties reported; drone origin and intended target under investigation",
-    "sources": [
-      {
-        "name": "Associated Press",
-        "url": "https://apnews.com/article/russia-ukraine-war-lithuania-drone-downed-nato-9671662649ebed2eca41879982f366ad"
-      },
-      {
-        "name": "Kyiv Independent",
-        "url": "https://kyivindependent.com/nato-shoots-down-drone-over-lithuanian-airspace-that-flew-in-from-belarus/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-15",
-    "time": "06:00",
-    "side": "russia",
-    "title": "Russian drone attack on Kyiv gas stations kills one and injures seven",
-    "detail": "Russian drones struck two gas stations in Kyiv's Darnytskyi and Holosiivskyi districts and damaged a non-residential building in Solomianskyi district and warehouses in Obolonskyi district. Kyiv authorities said one critically injured man died in hospital and at least seven people were injured, two seriously.",
-    "lat": 50.45,
-    "lng": 30.52,
-    "tid": "russia-drone-attack-kyiv-gas-stations-one-killed-seven-injured-2026-09-15",
-    "tn": "Kyiv, Ukraine",
-    "dmg": 76,
-    "cas": 8,
-    "dl": "CAPITAL FUEL-SITE ATTACK — one killed and seven injured",
-    "dc": "dmg-heavy",
-    "casualtyReport": "One killed and at least seven injured, including two hospitalized in serious condition",
-    "sources": [
-      {
-        "name": "Kyiv Independent",
-        "url": "https://kyivindependent.com/russian-forces-strike-kyiv-gas-station-as-one-person-hospitalized/"
-      },
-      {
-        "name": "Reuters via Internazionale",
-        "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/15/russia-hits-petrol-station-warehouse-facilities-in-kyiv-mayor-says"
       }
     ]
   }
